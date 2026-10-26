@@ -1,8 +1,8 @@
 {
-  "version": "4.6.1",
+  "version": "4.6.2",
   "release_date": "2026-10-27",
   "changelog": "• ជួសជុលបញ្ហាសំឡេងនិយាយភាសាចិនក្នុង Quick Preview និង Export ឱ្យក្លាយជាសំឡេងខ្មែរ ១០០% ពេញលេញ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.1/Royal_Studio_Patch_v4.6.1.zip",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.2/Royal_Studio_Patch_v4.6.2.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1438.8
 }
