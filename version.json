@@ -1,8 +1,8 @@
 {
-  "version": "4.6.3",
+  "version": "4.6.3ឮ",
   "release_date": "2026-10-27",
-  "changelog": "• កែសម្រួលការ Edit លើតារាងអក្សរខ្មែរ (តម្រូវឱ្យចុច Double-Click ទើបអាចកែបាន ដូចកំណែដើម ១០០%)\n• ដោះស្រាយបញ្ហាការនិយាយកាត់អក្សរ និងជាន់គ្នា (Zero Overlap & Tempo Scaling រហូតដល់ 2.85x ដោយមិនដាច់ពាក្យ)\n• កែសម្រួលប្រព័ន្ធបែងចែកសំឡេងតួអង្គប្រុស/ស្រី (កែតម្រូវច្បាប់ Vocative និង Consensus អាយុ-ភេទ មិនឱ្យច្រឡំ Sreymom លើតួប្រុសទៀតទេ)",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.3/Royal_Studio_Patch_v4.6.3.zip",
+  "changelog": "New Update",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.3ឮ/Royal_Studio_Patch_v4.6.3ឮ.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1444.4
+  "patch_size_kb": 1444.5
 }
