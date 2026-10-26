@@ -1,8 +1,8 @@
 {
-  "version": "4.5.9",
+  "version": "4.6.0",
   "release_date": "2026-10-26",
-  "changelog": "Bot Music BG",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.5.9/Royal_Studio_Patch_v4.5.9.zip",
+  "changelog": "• AI Background Music Bot Suite (ស្ទូឌីយោបង្កើតភ្លេងភាពយន្ត AI គ្មានជាប់ Copyright)",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.0/Royal_Studio_Patch_v4.6.0.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 485.0
+  "patch_size_kb": 975.3
 }
