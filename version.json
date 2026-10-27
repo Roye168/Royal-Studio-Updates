@@ -1,8 +1,8 @@
 {
-  "version": "4.7.3",
+  "version": "4.7.4",
   "release_date": "2026-10-27",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.3/Royal_Studio_Patch_v4.7.3.zip",
+  "changelog": "• 🚑 Hotfix Crash & Freeze: ដោះស្រាយបញ្ហាគាំងផ្ទាំងស (Not Responding) និងស្តារ translate_chunk_codecraft ឱ្យដំណើរការពេញលេញ ១០០%\n• 🎬 Medical Drama Context Injection: បញ្ជូនចំណងជើងរឿង និងបរិបទវេជ្ជសាស្រ្តទៅកាន់ CodeCraft AI (主刀 = គ្រូពេទ្យវះកាត់ធំ, 实习医生 = គ្រូពេទ្យហាត់ការ)\n• 🔗 Flowing Dialogue Adapter: ភ្ជាប់ឃ្លាខ្លីៗដែលបែកខ្ញែក (តុល្យភាព, សំខាន់, លឿន ➔ រក្សាលំនឹងឱ្យបាន, សំខាន់បំផុត, លឿនឡើង!)\n• 🛡️ Worker Thread Safety: ការពារ Qt GUI Deadlock ដោយសុវត្ថិភាព",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.4/Royal_Studio_Patch_v4.7.4.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1513.2
+  "patch_size_kb": 1519.3
 }
