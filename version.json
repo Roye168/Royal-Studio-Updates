@@ -1,8 +1,8 @@
 {
   "version": "4.6.9",
   "release_date": "2026-10-27",
-  "changelog": "• ដោះស្រាយបញ្ហាគាំង ឬលោតចេញពីកម្មវិធី (Zero-Crash & Exception Shield 100%)\n• ជួសជុលការនាំចេញវីដេអូ (Export) ឱ្យសំឡេងនិយាយខ្មែរច្បាស់ ពិរោះ និងត្រឹមត្រូវដូច Quick Review ១០០%\n• ការពារបញ្ហាជាន់គ្នានៃដំណើរការកូដ (Multi-thread & Safe Async Engine)\n• បន្ថែមប្រព័ន្ធជូនដំណឹងការពារនៅពេលឯកសារវីដេអូគោលដៅកំពុងត្រូវបានបើកចាក់ (File Lock Protection)",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.9/Royal_Studio_Patch_v4.6.9.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1439.7
+  "patch_size_kb": 1491.3
 }
