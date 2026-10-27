@@ -1,7 +1,7 @@
 {
   "version": "4.6.7",
   "release_date": "2026-10-27",
-  "changelog": "• 🎯 មុខងារថ្មី Auto-Snap Subtitles & Speech: តម្រឹម Subtitle និងសំឡេងឱ្យត្រូវតាមមាត់តួអង្គបើកនិយាយស្វ័យប្រវត្ត ១០០%\n• 👄 ដោះស្រាយបញ្ហាភាពយន្តដែលតួអង្គនិយាយនៅចុងប្លង់កាត់ (ដូចជាឃ្លា «យល់ថាសោកស្ដាយណាស់») ឱ្យនិយាយចំពេលមាត់តួអង្គបើកនិយាយពិតប្រាកដ\n• 🎛️ បន្ថែមប៊ូតុង 🎯 Snap លើរបារ Timeline និងប៊ូតុង 🎯 តម្រឹមពេលនិយាយ លើ Subtitles Toolbar\n• 🚀 ពង្រីកកម្រិត Full-Slot Speech Onset Detection រហូតដល់ 10,000ms ដើម្បីចាប់យកគ្រប់សកម្មភាពនិយាយរបស់តួអង្គដោយគ្មានការខកខាន",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.7/Royal_Studio_Patch_v4.6.7.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1473.5
