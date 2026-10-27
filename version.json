@@ -1,8 +1,8 @@
 {
-  "version": "4.7.1",
+  "version": "4.7.2",
   "release_date": "2026-10-27",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.1/Royal_Studio_Patch_v4.7.1.zip",
+  "changelog": "• 🚀 Auto-Switch AI: ពេល Gemini អស់កូតា (429) ប្តូរស្វ័យប្រវត្តិទៅ CodeCraft AI (DeepSeek) ភ្លាមៗដោយរលូន\n• 🎙️ Zero Missing Dialogue: ធានាមិនបាត់សូម្បីមួយឃ្លាពេល Export វីដេអូ (Second-Pass Guaranteed Delivery & Multi-Tier Fallback)\n• ⚡ Edge-TTS Semaphore Throttling: ការពារ Rate Limit និងកាត់បន្ថយការដាច់ Socket\n• 💎 CodeCraft Multi-Model Fallback & Think-Tag Stripping ឆ្លាតវៃ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.2/Royal_Studio_Patch_v4.7.2.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1493.4
+  "patch_size_kb": 1501.9
 }
