@@ -1,8 +1,8 @@
 {
-  "version": "4.6.9",
+  "version": "4.7.0",
   "release_date": "2026-10-27",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.9/Royal_Studio_Patch_v4.6.9.zip",
+  "changelog": "• ជួសជុលសំឡេងនិយាយឱ្យរលូន ១០០% ដោយលុបចោលការកាត់ដាច់ពាក្យកណ្តាលប្រយោគ (Zero-Clipping Audio Engine)\n• បំបាត់ចន្លោះស្ងាត់គាំងមិនប្រក្រតី (Eliminate 500ms Edge-TTS Punctuation Pauses) ធ្វើឱ្យសំឡេងនិយាយតៗគ្នាដូចមនុស្សពិត\n• រក្សាកន្ទុយខ្យល់ដង្ហើម និងសូរសំឡេងចុងឃ្លាឱ្យស្រទន់ពិរោះ (Natural Voice Decay & Attack Padding)\n• បង្កើនគុណភាពបកប្រែឱ្យខ្លី ខ្លឹម ចំប្រធានបទ ងាយស្រួលនិយាយទាន់មាត់តួអង្គ (Brevity & Lip Timing Alignment)",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.0/Royal_Studio_Patch_v4.7.0.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1491.3
+  "patch_size_kb": 1441.7
 }
