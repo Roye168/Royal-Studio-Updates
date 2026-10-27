@@ -1,7 +1,7 @@
 {
   "version": "4.6.6",
   "release_date": "2026-10-27",
-  "changelog": "• 👄 មុខងារ Precision Lip-Sync Timing: សំឡេងនិយាយខ្មែរត្រូវតាមមាត់តួអង្គបើកនិយាយ ១០០% (បំបាត់បញ្ហានិយាយមុនមាត់តួអង្គ)\n• 🎛️ បន្ថែម SpinBox តម្រឹមមាត់តួអង្គ (Lip-Sync Delay) ដោយផ្ទាល់នៅលើរបារ Timeline Track\n• 🎭 ប្រព័ន្ធឆ្លាតវៃបែងចែកសំឡេងតួអង្គប្រុសស្រី AI (Acoustic Pitch + Script Consensus): កែតម្រូវភេទតួអង្គស្វ័យប្រវត្តិតាមសំឡេងពិតនៃវីដេអូ\n• ⚡ បង្កើនភាពរលូន និងល្បឿនក្នុងការចាក់ Live Dubbing នៅលើ Timeline",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.6/Royal_Studio_Patch_v4.6.6.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1461.6
