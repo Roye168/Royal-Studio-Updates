@@ -1,8 +1,8 @@
 {
   "version": "4.7.1",
   "release_date": "2026-10-27",
-  "changelog": "• ជួសជុល NameError: 'threading' is not defined នៅពេលបកប្រែចប់\n• ធានាដំណើរការ Background Pre-caching និង Auto-save ប្រព្រឹត្តទៅដោយរលូន ១០០%\n• រក្សាសំឡេងនិយាយរលូន គ្មានការកាត់ដាច់ពាក្យកណ្តាលប្រយោគ (Zero-Clipping)",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.1/Royal_Studio_Patch_v4.7.1.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1441.8
+  "patch_size_kb": 1493.4
 }
