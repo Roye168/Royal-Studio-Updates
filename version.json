@@ -1,8 +1,20 @@
 {
-  "version": "4.6.7",
-  "release_date": "2026-10-27",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.7/Royal_Studio_Patch_v4.6.7.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1473.5
+    "version": "4.6.8",
+    "release_date": "2026-10-27",
+    "min_app_version": "4.5.0",
+    "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.6.8/RoyalStudio_Patch_v4.6.8.zip",
+    "changelog": {
+        "km": [
+            "ជួសជុលបញ្ហាពេលចុច Export គាំងហើយបិទកម្មវិធី (Memory & GUI Freeze Fix 100%)",
+            "ជួសជុលបញ្ហានិយាយជាន់គ្នា និងនិយាយរញ៉េរញ៉ៃពេល Export ឱ្យច្បាស់ពិរោះដូច Quick Review 100%",
+            "កម្រិតល្បឿននិយាយតាមស្តង់ដារកុន (Cinema Dubbing max 1.25x) បំបាត់សំឡេងកំប្លែង",
+            "បំបាត់បញ្ហាជាន់ឯកសារបណ្ដោះអាសន្នដោយប្រើ Unique UUID សម្រាប់គ្រប់ឃ្លាទាំងអស់"
+        ],
+        "en": [
+            "Fixed Export freeze & crash by optimizing procedural BGM memory overhead",
+            "Fixed speech overlap & garbled speech during export to match Quick Review 100%",
+            "Clamped max dubbing tempo to cinema standards (1.25x)",
+            "Eliminated temp audio file collisions with UUID isolation"
+        ]
+    }
 }
