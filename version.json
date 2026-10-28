@@ -1,8 +1,8 @@
 {
-  "version": "4.7.7",
+  "version": "4.7.8",
   "release_date": "2026-10-28",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.7/Royal_Studio_Patch_v4.7.7.zip",
+  "changelog": "• 👄 កែសម្រួលប្រព័ន្ធ Lip-Sync & Mouth Timing អោយត្រូវមាត់តួអង្គ ១០០% (Cinema-Standard Phonation Alignment):\n  - បំបាត់បញ្ហានិយាយមុនមាត់តួអង្គ ឬនិយាយមុនពេលតួអង្គបើកមាត់៖ បំពាក់ក្បួនឆ្លាតវៃ Periodic Pitch & Harmonicity Detector អាចស្គាល់រលកសម្លេងមនុស្សពិតប្រាកដ និងបដិសេធភ្លេងកុន (BGM) មិនឱ្យបន្លំ trigger មុនម៉ោងឡើយ។\n  - តម្រឹមពេលនិយាយ (Lip Opening Lead-in) ត្រូវចំវិនាទីដែលបបូរមាត់តួអង្គចាប់ផ្តើមបើកនិយាយយ៉ាងរលូនធម្មជាតិបំផុត។\n  - Natural Slot Cadence & Duration Clamping៖ ឃ្លាខ្លីៗមិននៅ lingering ចោលយូរក្នុងឈុតឆាកស្ងាត់ ឬវាយគ្នាទៀតឡើយ។\n  - Dynamic Tempo Synchronization (0.88x - 1.40x) ធានាថាសំឡេងនិយាយចប់ស្របពេលតួអង្គបិទមាត់ ដោយមិនដាច់ពាក្យ និងមិនរត់ជាន់ឃ្លាខាងមុខ។\n• 🎙️ ការបែងចែកសម្លេងតួអង្គប្រុសស្រី ចាស់ក្មេង កាន់តែសុក្រឹត និងរក្សាភាពរលូនពេញមួយរឿង។\n• ⚡ Ultra-Fast GPU Video Export ល្បឿនលឿន 3x-8x រក្សាគុណភាពកម្រិតភាពយន្តដដែល។",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.8/Royal_Studio_Patch_v4.7.8.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1506.9
+  "patch_size_kb": 1513.3
 }
