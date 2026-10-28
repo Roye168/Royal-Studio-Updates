@@ -1,8 +1,8 @@
 {
-  "version": "4.7.4",
-  "release_date": "2026-10-27",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.4/Royal_Studio_Patch_v4.7.4.zip",
+  "version": "4.7.5",
+  "release_date": "2026-10-28",
+  "changelog": "• ⚡ Ultra-Fast Export Acceleration (3x - 8x លឿនជាងមុន):\n  - បង្កើនល្បឿន Render វីដេអូដោយស្វ័យប្រវត្តិតាមរយៈ GPU Hardware Acceleration (NVIDIA NVENC, Intel QSV, AMD AMF) កម្រិតច្បាស់ស្អាត 1080p/720p Studio Quality (CQ 21)។\n  - ជំនួស Video Mask Blur មកជា Multi-threaded Fast Blur ជួយឱ្យល្បឿន FFmpeg លោតដល់ទៅ 250-400+ FPS (លឿនជាងមុនទ្វេដង)។\n  - បង្កើនប្រសិទ្ធភាព Precision Lip-Sync (Audio Slot Alignment) ក្នុង Pure-Python Memory ជួយកាត់បន្ថយការ Spawning Process ដល់ទៅ 90% (ត្រឹមតែ 7ms ក្នុងមួយឃ្លា)។\n• 🚫 Complete Removal of CodeCraft AI:\n  - ដក CodeCraft AI ចេញទាំងស្រុងតាមការស្នើសុំរបស់អ្នកប្រើប្រាស់ (លែងប្រើ CodeCraft ដោយសារការបកប្រែពាក្យពេចន៍មិនត្រូវសាច់រឿង)។\n  - ផ្ដោតលើតែ Gemini AI តែមួយគត់ ដោយមានប្រព័ន្ធ Multi-Key Auto-Rotation ប្ដូរ Key ស្វ័យប្រវត្តិនឹងបន្តដោយគ្មានការរអាក់រអួល និង Fallback ទៅកាន់ Google Cinematic Polish។\n• 💎 ធានារក្សាគុណភាពដើម ១០០%: រូបភាពវីដេអូច្បាស់ត្រជាក់ភ្នែក សំឡេងកម្រិត 44.1kHz Stereo ជាមួយ BGM Ducking ធម្មជាតិ គ្មានការបាត់ឃ្លា ឬកន្ត្រាក់សំឡេងឡើយ។",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.5/Royal_Studio_Patch_v4.7.5.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1519.1
+  "patch_size_kb": 1475.7
 }
