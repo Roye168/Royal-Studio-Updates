@@ -1,8 +1,8 @@
 {
-  "version": "4.7.5",
+  "version": "4.7.6",
   "release_date": "2026-10-28",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.5/Royal_Studio_Patch_v4.7.5.zip",
+  "changelog": "• 🌐 ជួសជុលបញ្ហាបកប្រែមកជាភាសាខ្មែរ ១០០% (Fix NameError & Full Khmer Localization):\n  - ស្តារឡើងវិញនូវ Prompt កុនភាពយន្តពេញលេញ (CINEMATIC_PROMPT & get_cinematic_prompt) ជួយឱ្យ AI បកប្រែរាល់ភាសាទាំងអស់ (អង់គ្លេស ចិន កូរ៉េ ថៃ) មកជាភាសាខ្មែររស់រវើកបែបកុនភាពយន្ត ១០០% ដោយគ្មានបញ្ហាចេញជាភាសាដើមទៀតឡើយ។\n  - បង្កើនប្រសិទ្ធភាព Gemini 7-Key Auto-Rotation៖ ឆ្លាស់កូនសោរ API Key ទាំង ៧ ដោយស្វ័យប្រវត្តិនឹងបន្តការបកប្រែដោយគ្មានការរអាក់រអួល។\n• ⚡ Ultra-Fast Video Export Acceleration (3x - 8x លឿនជាងមុន):\n  - GPU NVENC/QSV/AMF Hardware Acceleration រួមជាមួយ Fast Multi-Threaded Blur និង In-Memory Lip-Sync ត្រឹមតែ 7ms ក្នុងមួយឃ្លា។\n• 🚫 CodeCraft AI ត្រូវបានដកចេញស្អាតបាត ១០០% ដោយគ្មានផលរំខានដល់ប្រព័ន្ធឡើយ។",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.6/Royal_Studio_Patch_v4.7.6.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1486.5
+  "patch_size_kb": 1502.8
 }
