@@ -1,8 +1,8 @@
 {
-  "version": "4.7.8",
+  "version": "4.7.9",
   "release_date": "2026-10-28",
-  "changelog": "• 👄 កែសម្រួលប្រព័ន្ធ Lip-Sync & Mouth Timing អោយត្រូវមាត់តួអង្គ ១០០% (Cinema-Standard Phonation Alignment):\n  - បំបាត់បញ្ហានិយាយមុនមាត់តួអង្គ ឬនិយាយមុនពេលតួអង្គបើកមាត់៖ បំពាក់ក្បួនឆ្លាតវៃ Periodic Pitch & Harmonicity Detector អាចស្គាល់រលកសម្លេងមនុស្សពិតប្រាកដ និងបដិសេធភ្លេងកុន (BGM) មិនឱ្យបន្លំ trigger មុនម៉ោងឡើយ។\n  - តម្រឹមពេលនិយាយ (Lip Opening Lead-in) ត្រូវចំវិនាទីដែលបបូរមាត់តួអង្គចាប់ផ្តើមបើកនិយាយយ៉ាងរលូនធម្មជាតិបំផុត។\n  - Natural Slot Cadence & Duration Clamping៖ ឃ្លាខ្លីៗមិននៅ lingering ចោលយូរក្នុងឈុតឆាកស្ងាត់ ឬវាយគ្នាទៀតឡើយ។\n  - Dynamic Tempo Synchronization (0.88x - 1.40x) ធានាថាសំឡេងនិយាយចប់ស្របពេលតួអង្គបិទមាត់ ដោយមិនដាច់ពាក្យ និងមិនរត់ជាន់ឃ្លាខាងមុខ។\n• 🎙️ ការបែងចែកសម្លេងតួអង្គប្រុសស្រី ចាស់ក្មេង កាន់តែសុក្រឹត និងរក្សាភាពរលូនពេញមួយរឿង។\n• ⚡ Ultra-Fast GPU Video Export ល្បឿនលឿន 3x-8x រក្សាគុណភាពកម្រិតភាពយន្តដដែល។",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.8/Royal_Studio_Patch_v4.7.8.zip",
+  "changelog": "• 🎬 កែសម្រួលប្រព័ន្ធបកប្រែភាពយន្តខ្មែរ Cinema-Grade Translation Engine (គ្មានបកប្រែវ៉ុលៗ ឬលាយពាក្យផ្តេសផ្តាសទៀតឡើយ):\n  - IPv4 Turbo Routing: ដោះស្រាយបញ្ហា IPv6 DNS Delay លើ Windows ធ្វើឱ្យការហៅ Gemini API លឿនកប់ពពក (ត្រឹម 0.4s) និងមិនធ្លាក់ទៅជួប Google Fallback ដោយងងឹតងងល់ទៀតឡើយ។\n  - Ancient Drama ASR Homophone Cleaner: កម្ចាត់កំហុសសំនៀងពាក្យចិនបុរាណ (ដូចជា 石户九空 -> 十室九空, 粮仓五米 -> 粮仓无米, 不是粮酒师兄 -> 不是年久失修, 牢房 -> គុក, 奏折 -> របាយការណ៍រាជការ)។\n  - Cinema Translation Polish Rules: កែប្រែពាក្យបកប្រែខុសកាលៈទេសៈ (កោសិកា -> គុក, មនុស្សពេញវ័យ -> លោកម្ចាស់, អនុស្សាវរីយ៍ -> របាយការណ៍រាជការ, ម្នាលអាវុសោ -> ចុះបើ) មកជាភាសានិយាយកុនកំប្លែងបុរាណរស់រវើក ជក់ចិត្ត។\n• 🎭 ការបែងចែកសម្លេងតួអង្គប្រុសស្រី និងឋានៈតួអង្គ (Character Role & Gender Consensus Engine):\n  - បែងចែកសម្លេងយ៉ាងច្បាស់លាស់តាមតួអង្គនីមួយៗ (លោកចៅហ្វាយស្រុក, ស្មៀនសាលាស្រុក, ព្រះចៅអធិរាជ, មន្ត្រីធំ, អ្នកលក់គុយទាវ, កសិករ និងតួស្រី)។\n  - ធានាថាសម្លេងតួអង្គប្រុសស្រីមិនច្រឡូកច្រឡំ ឬធ្លាក់ទៅប្រើសម្លេងលំនាំដើមតែមួយនោះឡើយ។\n• 👄 Lip-Sync & Phonation Engine v2: និយាយត្រូវមាត់តួអង្គ ១០០% ស្របតាមកាយវិការបើក-បិទបបូរមាត់។\n• ⚡ Ultra-Fast GPU Video Export ល្បឿនលឿន 3x-8x រក្សាគុណភាពកម្រិតភាពយន្តដដែល។",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.9/Royal_Studio_Patch_v4.7.9.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1513.3
+  "patch_size_kb": 1516.0
 }
