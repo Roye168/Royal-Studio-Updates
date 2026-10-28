@@ -1,8 +1,8 @@
 {
   "version": "4.7.7",
   "release_date": "2026-10-28",
-  "changelog": "• 🎙️ បង្កើនភាពជាក់លាក់ ១០០% លើការបែងចែកសម្លេងតួអង្គប្រុស និងស្រី (Master Voice & Gender Precision):\n  - ដោះស្រាយបញ្ហាច្រឡំសម្លេងប្រុសនិងស្រី (ដូចជាឈុតតួប្រុសនិយាយរៀបរាប់អំពីតួស្រី មិនច្រឡំដាក់សម្លេងស្រីទៀតឡើយ)។\n  - ផ្តល់សិទ្ធិអំណាចខ្ពស់ដល់ Gemini Contextual Dramatic AI ក្នុងការវិភាគសាច់រឿង រួមផ្សំជាមួយ Subharmonic Octave Filter ការពារមិនឱ្យភ្លេងកុន (BGM) រំខានដល់ប្រេកង់សម្លេងពិត។\n  - ភ្ជាប់ប្រព័ន្ធ Scene Speaker Continuity Smoothing រក្សាភាពរលូន និងតួនាទីតួអង្គ (ចាស់ ក្មេង ប្រុស ស្រី) ឱ្យនៅថេរជាប់លាប់ពេញមួយឈុតឆាក។\n• 🌐 ស្តារឡើងវិញពេញលេញនូវការបកប្រែកុនជាភាសាខ្មែរ ១០០% ជាមួយ Gemini 7-Key Auto-Rotation (10,500 សំណើ/ថ្ងៃ)។\n• ⚡ Ultra-Fast GPU Video Export (3x - 8x លឿនជាងមុន) ដោយរក្សាគុណភាពកម្រិតភាពយន្តដដែល។",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.7.7/Royal_Studio_Patch_v4.7.7.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1507.1
+  "patch_size_kb": 1506.9
 }
