@@ -1,8 +1,8 @@
 {
-  "version": "4.8.4",
+  "version": "4.8.5",
   "release_date": "2026-10-29",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.4/Royal_Studio_Patch_v4.8.4.zip",
+  "changelog": "• 🎙️ បែងចែកសម្លេងតួអង្គប្រុស និងស្រីសុក្រឹត្យ ១០០% ឥតខ្ចោះ (Pure Binary Character Voice Engine):\n  - អនុវត្តតាមសំណូមពរយ៉ាងម៉ឺងម៉ាត់៖ បកប្រែបែងចែកសម្លេងតែ ២ សុទ្ធសាធ គឺ Piseth (ធម្មតា/តួប្រុស) និង Sreymom (ធម្មតា/តួស្រី) ដោយលុបចោលសម្លេងរញ៉េរញ៉ៃ (ចាស់, ក្មេង, និទាន) ទាំងអស់។\n  - ផ្តល់អាទិភាពដាច់ខាតលើរលកសម្លេងពិតក្នុងវីដេអូ (Acoustic Ground Truth Priority)៖ ប្រេកង់សម្លេងស្រី (>= 165Hz) កំណត់ជា Sreymom ភ្លាមៗដោយគ្មានការកៀបចាក់សោរដោយ Gemini Male Default ទៀតឡើយ។\n  - បន្ថែមការសម្គាល់តួអង្គស្ត្រីក្នុងវិស័យពេទ្យ និងការហៅបែបស្និទ្ធស្នាល (方姐, 孟姐, 苏姐 - បងស្រីគិលានុបដ្ឋាយិកា, 阿姨 - មីង/អ៊ំស្រី, 小姐 - កញ្ញា, 心率/休克/除颤 - សម្លេងពេទ្យស្រីបន្ទាន់)។\n  - អាប់ដេតគម្រោងភាពយន្តឱ្យបែងចែកសម្លេងតួប្រុស-ស្រីគ្រប់ ៣,៨៤៤ ឃ្លាបានត្រឹមត្រូវ ១០០%។",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.5/Royal_Studio_Patch_v4.8.5.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1532.7
+  "patch_size_kb": 1540.8
 }
