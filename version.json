@@ -1,8 +1,8 @@
 {
   "version": "4.8.4",
   "release_date": "2026-10-29",
-  "changelog": "• 🛡️ ដោះស្រាយបញ្ហាកម្មវិធីលោតចេញ (Qt GUI Access Violation 0xc0000005 Fix):\n  - លុបចោល QApplication.processEvents() ក្នុង append_row និង update_translated_row ដែលបណ្តាលឱ្យ Re-entrant Event Loop កើតឡើងពេលស្រង់ subtitle រឿងវែងៗ (២ ទៅ ៣ ម៉ោងជាង ២៥០០ ឃ្លា)។\n  - ដំណើរការរលូន ១០០% គ្មានគាំង គ្មានលោតបិទកម្មវិធីទៀតឡើយ។\n• 🎙️ ដោះស្រាយការបែងចែកសម្លេងប្រុស និងស្រីឱ្យត្រឹមត្រូវ ១០០% (Vocal Gender Separation Fixed):\n  - កែសម្រួល Pitch Detection (F0): លុបចោលកំហុស Subharmonic Halving ដែលកាត់បន្ថយប្រេកង់សម្លេងតួស្រី (200Hz) ចុះមកសល់ត្រឹម (100Hz) ធ្វើឱ្យកម្មវិធីស្មានតែសម្លេងប្រុស។ ពេលនេះសម្លេងតួស្រីត្រូវកំណត់ជា 'Sreymom (ធម្មតា/តួស្រី)' បានយ៉ាងសុក្រឹត្យ ១០០%! \n  - បន្ថែមការសម្គាល់តួអង្គស្ត្រីក្នុងវិស័យពេទ្យ និងសម័យទំនើប (护士, 护士长 - គិលានុបដ្ឋាយិកា/មេពេទ្យស្រី, 女医生 - គ្រូពេទ្យស្រី, អ្នកគ្រូពេទ្យ, ចាស)។\n  - កំណត់អាទិភាពសម្លេងពិតជាក់ស្តែង (Acoustic Pitch Priority) លើសពី Gemini Guess ពេលមានសម្លេងមនុស្សស្រីនិយាយក្នុងវីដេអូ។\n• ⚡ Gemini Multi-Key Auto-Recovery:\n  - កែសម្រួលប្រព័ន្ធ Rate Limit (15 RPM) មិនឱ្យចាក់សោរ Key ពេញមួយថ្ងៃដោយច្រឡំ។",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.4/Royal_Studio_Patch_v4.8.4.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1532.9
+  "patch_size_kb": 1532.7
 }
