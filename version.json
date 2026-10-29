@@ -1,7 +1,7 @@
 {
   "version": "4.8.2",
   "release_date": "2026-10-29",
-  "changelog": "• ជួសជុលបញ្ហា UnboundLocalError 'det_genre' នៅពេលចាប់ផ្តើមបកប្រែវីដេអូ AI\n• ធានាការបកប្រែរឿងពេទ្យ និងរឿងសម័យដំណើរការរលូន ១០០% គ្មានគាំង\n• ការពារដាច់ខាតមិនឱ្យអក្សរចិនដើមលេចធ្លាយចូលតារាងបកប្រែខ្មែរ",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.2/Royal_Studio_Patch_v4.8.2.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1534.3
