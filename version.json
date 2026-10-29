@@ -1,7 +1,7 @@
 {
   "version": "4.8.6",
   "release_date": "2026-10-29",
-  "changelog": "• ដោះស្រាយជាស្ថាពរនូវបញ្ហាលោតចេញ (App Crash / 0xc0000005) ពេលកំពុងចុចស្ដាប់តេស្តសំឡេង (Voice Preview)\n• កែសម្រួលប្រព័ន្ធវិភាគសំឡេងមនុស្ស (Acoustic F0 Pitch & Linguistic Detection) ឱ្យបែងចែកតួអង្គប្រុស (Piseth) និងតួស្រី (Sreymom) បានត្រឹមត្រូវ ១០០%\n• លុបបំបាត់ចោលបញ្ហាកាត់បន្ថយប្រេកង់សំឡេង (Octave Halving) ដែលធ្លាប់ធ្វើឱ្យសំឡេងស្រីប្រែជាសំឡេងប្រុស",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.6/Royal_Studio_Patch_v4.8.6.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1541.3
