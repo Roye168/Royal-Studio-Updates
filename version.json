@@ -1,8 +1,8 @@
 {
-  "version": "4.8.7",
-  "release_date": "2026-10-29",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.7/Royal_Studio_Patch_v4.8.7.zip",
+  "version": "4.8.8",
+  "release_date": "2026-10-30",
+  "changelog": "• 🚀 បង្កើនល្បឿន Export វីដេអូដល់កម្រិតអតិបរមា (Fast Stream Copy & Hardware Acceleration 30x)\n• ⚡ ពន្លឿនការបញ្ចេញសំឡេង TTS Concurrency ពី 3 ឡើងដល់ 10 Worker Threads (លឿនជាងមុន 400%)\n• 🔊 ដោះស្រាយបញ្ហា Audio Cache (Fixed Fake WAV/MP3) ដោយផ្ទុកសំឡេងផ្ទាល់ក្នុង RAM តាម PyAV 0ms\n• 💾 រក្សាទុក Universal Raw Audio Cache សម្រាប់ប្រើប្រាស់ឡើងវិញភ្លាមៗ មិនបាច់ទាញយកតាម Internet\n• 🎬 គាំទ្រ Direct Stream Copy (-c:v copy) នៅពេលមិនមាន Mask ឬ Subtitle នាំចេញរឿង ២ ម៉ោងកន្លះត្រឹម ១-២ នាទី\n• 🎯 Real-time Progress Tracking រលូនឥតគាំងទាក់អំឡុងពេលដំណើរការ Export",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.8/Royal_Studio_Patch_v4.8.8.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1552.6
+  "patch_size_kb": 1562.1
 }
