@@ -1,7 +1,7 @@
 {
   "version": "4.8.9",
   "release_date": "2026-10-30",
-  "changelog": "• 🚀 បង្កើនល្បឿនបកប្រែ AI & Whisper ដល់កម្រិតកំពូល (CUDA GPU & Gemini 3.5 Flash Lite 2.1s)\n• ⚡ Whisper AI ដំណើរការលើ GPU CUDA float16 ស្រង់សំឡេងរឿង ២ ម៉ោងត្រឹមតែ ១-២ នាទី\n• 🎭 ដោះស្រាយការបែងចែកសំឡេងតួអង្គឱ្យត្រឹមត្រូវ ១០០% (ឯកឧត្តមចាង, ព្រះរាជបុត្រ, មេទ័ព, ស្ដេច គឺតួប្រុសសុទ្ធសាធ)\n• 🔊 ពន្លឿនការ Export តាមរយៈម៉ាស៊ីន In-Memory WSOLA Audio Processing (កាត់បន្ថយពេលពី 15 នាទីមកត្រឹមប៉ុន្មានវិនាទី)\n• 💎 គុណភាពបកប្រែភាពយន្តបុរាណ និងសម័យនៅតែរលូន ពិរោះបែបកុន ១០០% ឥតធ្លាក់ចុះគុណភាព\n• 🎬 គាំទ្រទាំង Fast Stream Copy (1-2 នាទី) និង GPU Hardware Acceleration 30x Speed",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.8.9/Royal_Studio_Patch_v4.8.9.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1566.0
