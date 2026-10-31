@@ -1,7 +1,7 @@
 {
   "version": "4.9.7",
   "release_date": "2026-10-31",
-  "changelog": "• ⚡ Fix Export Freeze (3228/3228): ដោះស្រាយបញ្ហាគាំង Export នៅពេលសំឡេងខ្មែរដល់ 3228/3228 ដោយជំនួស blocking retry loop មកជា Safe Fast-Check ដំណើរការភ្លាមៗ មិនបង្កក UI\n• 🚀 Real-time Video Render Progress: បន្ថែម -progress pipe:2 និង Real-time Line Reader ធ្វើឱ្យឃើញភាគរយ Render វីដេអូ និងល្បឿន Render (ឧ. [ល្បឿន 28.5x]) ផ្លាស់ប្តូរជាប់រហូត គ្មានភាពស្ងាត់គាំង\n• 🛡️ Non-Blocking Audio Pipeline: ធានាការផ្គុំសំឡេងមេ 100% គ្រប់ 3,228 ជួរយ៉ាងរលូន ដោយគ្មានការជាប់គាំង និងមិនបាត់បង់សំឡេងតួអង្គឡើយ",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.7/Royal_Studio_Patch_v4.9.7.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1606.6
