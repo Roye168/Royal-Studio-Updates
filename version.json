@@ -1,8 +1,8 @@
 {
-  "version": "4.9.1",
+  "version": "4.9.2",
   "release_date": "2026-10-31",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.1/Royal_Studio_Patch_v4.9.1.zip",
+  "changelog": "• បែងចែក និងដំណើរការសំឡេងតួអង្គទាំង ៧ ពេញលេញ ១០០% (ប្រុសធម្មតា, ស្រីធម្មតា, ចាស់ប្រុស/ស្ដេច/កំណាច, ចាស់ស្រី/មេការ/មាតា, ក្មេងប្រុស/រត់តុ, ក្មេងស្រី/បម្រើ/ស្រទន់, និទានរឿង)\n• កែសម្រួលប្រព័ន្ធកំណត់សំឡេងតួអង្គ៖ ជួសជុលកំហុសរលុបសំឡេងតួអង្គ និងកែតម្រូវឈុតផ្ដើមសាច់រឿងជាសំឡេងនិទានរឿង (Narrator) និងតួឯកប្រុសបានត្រឹមត្រូវ ១០០%\n• អាប់ដេតប្រព័ន្ធ Lip-Sync & Mouth Timing ល្អឥតខ្ចោះ ១០០%៖ កាត់បន្ថយ Delay មកត្រឹម 30-40ms (ចាប់មាត់តួអង្គបើកភ្លាម និយាយភ្លាម) និងចាក់សោរយៈពេលសំឡេងមិនឱ្យហៀរចូលតួអង្គបន្ទាប់ (Strict Slot Ceiling Clamp & 1.65x Natural WSOLA Pace)\n• បង្កើនគុណភាពសំឡេងតួអង្គទាំង ៧ ឱ្យកាន់តែពីរោះ រស់រវើក និងមិនរអាក់រអួលនៅលើ Microsoft Neural Edge-TTS",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.2/Royal_Studio_Patch_v4.9.2.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1593.6
+  "patch_size_kb": 1600.7
 }
