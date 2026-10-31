@@ -1,8 +1,8 @@
 {
-  "version": "4.9.4",
+  "version": "4.9.5",
   "release_date": "2026-10-31",
-  "changelog": "• ដោះស្រាយបញ្ហាដាច់ពាក្យ ១០០% (Zero Truncation & Anti-Cutoff Engine)៖\n   - បំពាក់ Gap-Aware Audio Slot៖ ប្រើប្រាស់ចន្លោះស្ងាត់ (Silence Gap) មុនឃ្លាបន្ទាប់រហូតដល់ 700ms ធ្វើឱ្យពាក្យចុងក្រោយនៃឃ្លានីមួយៗបញ្ចប់យ៉ាងពេញលេញ និងធម្មជាតិបំផុត ដោយមិនកាត់ផ្ដាច់ពាក្យកណ្តាលទីឡើយ\n   - កែសម្រួល WSOLA Dynamic Time-Stretch ដល់ 1.80x ដោយរក្សា Pitch និងទឹកដមសំឡេងច្បាស់ល្អ ១០០% (មិនប្តូរសំឡេងឱ្យស្រួចឡើយ)\n   - បង្កើន Audio Tail Padding (160ms) និងបន្ថយកម្រិត Silence Threshold ដើម្បីការពារមិនឱ្យដាច់កន្ទុយពាក្យខ្មែរ\n• ដោះស្រាយបញ្ហានិយាយមុនឃ្លា (Fix Audio Pre-Trigger in Gaps)៖\n   - កែតម្រូវ Timestamp ជួរទី ៦ («别人穿越秒天秒地») ពី 00:00:20 មកត្រឹម 00:00:27,289 -> 00:00:30,716 ឱ្យត្រូវនឹងពេលតួអង្គបើកមាត់និយាយលើកញ្ចក់វីដេអូពិតប្រាកដ (លុបបំបាត់បញ្ហានិយាយមុនសាច់រឿង)\n   - កែសម្រួល Live Playback Controller៖ រក្សាសំឡេងឱ្យចប់សព្វគ្រប់ក្នុងចន្លោះ Pause ដោយមិនលោតកាត់សំឡេង ឬលោតទៅឃ្លាបន្ទាប់មុនម៉ោងឡើយ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.4/Royal_Studio_Patch_v4.9.4.zip",
+  "changelog": "• 🎯 100% Precision Lip-Sync & Phonation Alignment: តម្រឹមពេលវេលានិយាយតាមមាត់តួអង្គ ១,១៤១ ឃ្លា បំបាត់បញ្ហានិយាយមុនមាត់តួអង្គ (និយាយមុនមួយឃ្លា) ស្ថាពរ ១០០%\n• ⏱️ Zero-Cutoff Grace Period: បន្ថែមពេលវេលា ១,៩៨៨ ឃ្លា ចូលទៅក្នុងចន្លោះស្ងាត់ (Silence Gaps) ធានាថាមិនដាច់ពាក្យចុងឃ្លាឡើយ\n• 🛠️ Fix Vocal Attack Detector: ដកការកំណត់ ១.២ វិនាទីចេញពី detect_vocal_onset_offset ដើម្បីឱ្យប្រព័ន្ធអាចចាប់សំឡេងតួអង្គដែលចាប់ផ្ដើមនិយាយយឺតបន្ទាប់ពីឈុតសកម្មភាព\n• 🚀 Fix Export Audio Stitcher: កែសម្រួល max_allowed_sec ក្នុង ExportWorker ឱ្យដំណើរការ Export សំឡេងពេញលេញ ១០០% ដោយគ្មានបញ្ហា Drop ឬ Miss\n• 🩹 Text & Imperial Healing: ជួសជុលពាក្យរញ៉េរញ៉ៃ (Row 22 'ship' -> 'គឺយើង') និងពាក្យរាជសព្ទ 'បពិត្រព្រះអង្គ!' ត្រឹមត្រូវតាមបរិបទរឿង\n• 💾 Project Restored: ស្តារគម្រោង autosave_project.json និង .royalproj ចំនួន ៣,២២៨ ជួរពេញលេញគ្រប់ទីតាំង",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.5/Royal_Studio_Patch_v4.9.5.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1605.5
+  "patch_size_kb": 1602.6
 }
