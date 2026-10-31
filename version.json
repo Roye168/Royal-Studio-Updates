@@ -1,7 +1,7 @@
 {
   "version": "4.9.8",
   "release_date": "2026-10-31",
-  "changelog": "• 🎬 Ultimate Master System Prompt: បំពាក់ System Prompt កម្រិតកំពូល (Elite Cinematic Localizer & Master Dubbing Director) ក្នុងដំណើរការបកប្រែ AI Translation API\n• 💎 Strict Zero-Loss & Spoken Clarity: ហាមបាត់ពាក្យ ហាមបាត់ន័យ និងប្រើប្រាស់ពាក្យសន្ទនាងាយយល់ ចង្វាក់អានស្រួល ត្រូវតាមក្បួនកុន ១០០%\n• 🏷️ Proper Nouns & Universal Pronoun Engine: រក្សាឈ្មោះតួអង្គដើមដាច់ខាត (Ye Fan -> យីហ្វាន, Gu Hai -> គូហាយ) និងបែងចែកសព្វនាមគ្រប់ទម្រង់រឿង (សម័យ, បុរាណ, វាំង, សងសឹក, កំប្លែង)\n• 🛡️ 100% Format & Timestamp Integrity: ធានារក្សារចនាសម្ព័ន្ធ JSON Array, IDs, និង Subtitle Timestamps យ៉ាងរឹងមាំ គ្មានការបាត់បង់ទម្រង់ដើមឡើយ",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
   "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.8/Royal_Studio_Patch_v4.9.8.zip",
   "min_supported_version": "4.0.0",
   "patch_size_kb": 1597.9
