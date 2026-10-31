@@ -1,8 +1,8 @@
 {
-  "version": "4.9.0",
-  "release_date": "2026-10-30",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.0/Royal_Studio_Patch_v4.9.0.zip",
+  "version": "4.9.1",
+  "release_date": "2026-10-31",
+  "changelog": "• បន្ថែមប៊ូតុង និងមុខងារពិសេស '🎭 តម្រឹមតួអង្គ AI ស្វ័យប្រវត្តិ ១០០%' (Auto-Cast Roles) ជួយបែងចែកតួប្រុស ស្រី មនុស្សចាស់/ស្ដេច និងក្មេងប្រុស/អ្នកបម្រើ បានត្រឹមត្រូវឥតខ្ចោះ\n• ជួសជុល និងបកប្រែបំពេញជួរទទេស្វ័យប្រវត្តិលឿនបំផុត (Fast AI Batch Healing) ដោយគ្មានការកកស្ទះ\n• កែលម្អការបញ្ចេញសំឡេង Export Dubbing ១០០% គ្មានការជ្រៀតចូលសំឡេង Google Monotone ឬសំឡេង Ai ក្រៅកម្មវិធីឡើយ ដោយប្រើប្រាស់តែសំឡេងដើមរបស់ Royal Studio សុទ្ធសាធ (Zero Foreign TTS Incursions)\n• ធានាការតម្រឹមតួអង្គប្រុសស្រី និងរាជវាំង (ព្រះមហាក្សត្រ, ព្រះនាង, ស្រីស្នំ, មន្ត្រី, អ្នករត់តុ) ត្រូវតាមសាច់រឿងជាក់ស្ដែង ១០០%",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v4.9.1/Royal_Studio_Patch_v4.9.1.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1584.9
+  "patch_size_kb": 1596.6
 }
