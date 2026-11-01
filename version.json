@@ -1,10 +1,8 @@
 {
   "version": "5.0.2",
-  "release_notes": "• 🚀 Fix Video Scrub Freezing (បំបាត់បញ្ហាគាំងពេលអូសវីដេអូទៅមុខ ១០០%): បំពាក់ FastStart (+faststart) និងបង្ខំ Keyframe រៀងរាល់ ២ វិនាទី (-g 60) លើការ Export ទាំងអស់ អូសរលូនស្អាតគ្មានគាំងលើ Windows Media Player\n• 🚫 Ban Pinyin Syllable Chains (បំបាត់ដាច់ខាតការបកប្រែជាអក្សរគ្មានន័យ 'ស៊ូ វ៉ាង ចាង...'): ធានាការបកប្រែន័យសន្ទនាពេញលេញរលូនបែបកុន និងភ្ជាប់ឈ្មោះតួអង្គចិនត្រឹមត្រូវ\n• 🎭 Court & Office Gender Protection (ការពារមិនឱ្យច្រឡំភេទតួអង្គសាលាស្រុក/វាំង): ចៅហ្វាយស្រុក, ស្មៀន, មេក្រុមបង្ក្រាប និងព្រះមហាក្សត្រ ប្រើសំឡេង Piseth (ប្រុស) ត្រឹមត្រូវ មិនច្រឡំ Sreymom (ស្រី) ដោយសារភ្លេងខ្លុយឡើយ",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.2.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.2.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.0.2.zip",
-  "patch_size_bytes": 1666600,
-  "sha256": "b371df6eac4ab52604720fc179c8b12dc48a490b647e80413f128600116e283f",
-  "mandatory": false
+  "release_date": "2026-11-01",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.2/Royal_Studio_Patch_v5.0.2.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1627.5
 }
