@@ -1,8 +1,10 @@
 {
-  "version": "5.0.3",
-  "release_date": "2026-11-01",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.3/Royal_Studio_Patch_v5.0.3.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1635.1
+  "version": "5.0.4",
+  "release_notes": "• 🔊 Fix 100% Export Silence Bug (ជួសជុលបញ្ហា Export រួចមិនឮសំឡេងនិយាយខ្មែរដាច់ខាត):\n  - ជួសជុលកំហុសខ្វះ Import ក្នុង workers.py (infer_dialogue_gender, match_voice_name, shutil, json) ដែលធ្វើឱ្យ buffer សំឡេងកាលពីមុនក្លាយជា silent audio\n  - បំពាក់ប្រព័ន្ធផ្ទៀងផ្ទាត់ Peak Amplitude សំឡេងខ្មែរពិតប្រាកដមុនពេល Render ធានាថារាល់វីដេអូនាំចេញទាំងអស់មានសំឡេងនិយាយខ្មែរពិរោះច្បាស់ ១០០%\n• 💎 Anti-Hallucination & Faithful Translation (លុបបំបាត់ការបកប្រែរញ៉េរញ៉ៃ ឬប្រឌិតពាក្យខុសន័យ):\n  - បំពាក់ច្បាប់ Zero-Hallucination & Fact Fidelity ក្នុង Ultimate Master System Prompt ហាមដាច់ខាតការប្រឌិតរឿង ឬដាក់ពាក្យគ្មានន័យខុសពីការសន្ទនាដើម\n  - ធានាការបកប្រែពាក្យស្លោក និងអត្ថន័យសន្ទនាគ្រួសារ សម័យទំនើប និងបុរាណ ត្រង់ន័យ និងរលូនបែបកុន ១០០%\n• 🎬 Auto-Heal Project Data: ជួសជុលគម្រោង និងសំឡេងតួអង្គក្នុង Movie 27 ឱ្យត្រូវន័យសាច់រឿង ៨៦១ ជួរពេញលេញ",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.4.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.4.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.0.4.zip",
+  "patch_size_bytes": 1677942,
+  "sha256": "36e9653530b3bc6f1bc058315c989a6948f954a49805f0a932833531330be0a5",
+  "mandatory": false
 }
