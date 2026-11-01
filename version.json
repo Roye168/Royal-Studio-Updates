@@ -1,8 +1,10 @@
 {
-  "version": "5.0.2",
-  "release_date": "2026-11-01",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.2/Royal_Studio_Patch_v5.0.2.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1627.5
+  "version": "5.0.3",
+  "release_notes": "• 🎭 100% Zero-Leak Voice Integrity (បំបាត់ដាច់ខាតការលេចសំឡេងដែលមិនបានជ្រើសចូលក្នុងវីដេអូ Export):\n  - ជួសជុល match_voice_name រក្សាទម្រង់សំឡេងតួអង្គទាំង ៧ ពេញលេញ (Piseth និទាន, យុវជន, ធម្មតា, មនុស្សចាស់កំណាច និង Sreymom ក្មេង, ធម្មតា, មនុស្សស្រីចាស់មេការ) មិនឱ្យបាត់បង់ ឬ Flatten ឡើយ\n  - បំពាក់ Context-Aware Voice Safeguard ក្នុង ExportWorker ការពារដាច់ខាតមិនឱ្យសំឡេងស្រី Sreymom លេចចូលតួអង្គប្រុស (ព្រះមហាក្សត្រ Li Shimin, មន្ត្រីរាជការ, ថៅកែហាង) សូម្បីតែ ១ ឃ្លា\n  - ភ្ជាប់ Dropdown សំឡេងទូទៅ (cb_batch_voice) ឱ្យ Apply ដោយស្វ័យប្រវត្តិភ្លាមៗពេលចុចជ្រើសរើសលើជួរដែលបាន Select\n• 🎬 Smooth Scrub & Seek 100% (អូសវីដេអូទៅមុខទៅក្រោយរលូនគ្មានគាំង): បំពាក់ FastStart MP4 Header និងបង្ខំ Keyframe រៀងរាល់ ២ វិនាទី លើការ Export ទាំងអស់\n• 🛡️ Auto-Purge Stale Cache: សម្អាត Audio Cache ចាស់ៗដែលច្រឡំសំឡេងស្រីកាលពីមុនចោលទាំងអស់ ធានាសំឡេងថ្មីស្អាត និងត្រូវតួអង្គ ១០០%",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.3.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.3.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.0.3.zip",
+  "patch_size_bytes": 1674345,
+  "sha256": "15c446cf643423254b58a8224ae0557dc96d032187241d1387ebb73eb75887a1",
+  "mandatory": false
 }
