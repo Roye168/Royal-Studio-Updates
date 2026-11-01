@@ -1,10 +1,8 @@
 {
   "version": "5.0.5",
-  "release_notes": "• 🚀 Fix 100% Export Subtitle & Render Crash (ជួសជុលបញ្ហា Export គាំង ឬ Error ដាច់ខាត):\n  - ជួសជុលកំហុស Tuple Unpack (ValueError: too many values to unpack) ពេលបង្កើតឯកសារ ASS Subtitles ក្នុង ExportWorker\n  - គាំទ្រទាំង 4-tuple, 5-tuple, dicts និងគ្រប់ប្រភេទជួរទិន្នន័យ ធានាការនាំចេញវីដេអូវែង (៧៤ នាទី / ១៩២០ ជួរ) ជោគជ័យ ១០០%\n• 🎬 Auto Cinema Subtitle Font Scaling (ទំហំអក្សរច្បាស់ត្រជាក់ភ្នែកបែបកុនចិន):\n  - ជួសជុលបញ្ហា font_size តូចពេក ដោយបំពាក់ប្រព័ន្ធ Auto Clamping ធ្វើឱ្យអក្សររត់លើវីដេអូច្បាស់ ធំល្មមអានស្រួលលើគ្រប់កម្រិត 720p / 1080p\n• 🔊 Cinematic Dialogue Volume Boost (សំឡេងនិយាយឮច្បាស់ពេញលេញលើភ្លេង BGM):\n  - បង្កើនកម្លាំងសំឡេងតួអង្គនិយាយខ្មែរស្វ័យប្រវត្តិកម្រិត Studio Audio Normalization (Peak ~ 27,500) ឮច្បាស់ពិរោះ មិនលិចក្រោមភ្លេងកំដរ\n• ⚡ Bulletproof GPU NVENC & CPU Fallback (Render លឿនបំផុតត្រឹម ៦០ វិនាទី):\n  - ដំណើរការ GPU Hardware Acceleration និងស្វ័យប្រវត្តិប្តូរទៅ CPU libx264 ភ្លាមៗបើមានបញ្ហា Driver ឬ Session Limit\n• 🛡️ Windows UTF-8 Stream Safeguard: ការពារ UnicodeEncodeError (charmap) លើឈ្មោះឯកសារចិន និងខ្មែរ ១០០%",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.5.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.5.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.0.5.zip",
-  "patch_size_bytes": 1685106,
-  "sha256": "65994770db41b324616db1e3e6702ac4c71d9b19d00d541d7c48d48fca975e3c",
-  "mandatory": false
+  "release_date": "2026-11-01",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.5/Royal_Studio_Patch_v5.0.5.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1645.6
 }
