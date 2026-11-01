@@ -1,8 +1,8 @@
 {
-  "version": "5.0.0",
+  "version": "5.0.1",
   "release_date": "2026-11-01",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.0/Royal_Studio_Patch_v5.0.0.zip",
+  "changelog": "• 🎯 Fix Speaking Early (បំបាត់បញ្ហានិយាយមុនមាត់តួអង្គ ១០០%): កែតម្រូវម៉ាស៊ីន Calculate Lip-Sync Delay និងបំពាក់ Auto-Snap Onset តាំងពីពេល Whisper ស្ដាប់សំឡេងដើមចប់ ធានាថាសំឡេងខ្មែរនិយាយចំពេលមាត់តួអង្គបើកនិយាយ គ្មានការនិយាយមុន ៣ ទៅ ៤ វិនាទីទៀតឡើយ\n• 💎 Cinematic Dialogue Translation (លើកកម្ពស់គុណភាពបកប្រែ): បកប្រែឃ្លាសន្ទនាបែបកុនធម្មជាតិ បំបាត់ការបកប្រែតាមន័យត្រង់កំប៉ិកកំប៉ុក (ដូចជា 'ជ្រូកនេះជាខ្ញុំ', 'ធ្វើឱ្យស្លាប់ទាំងរស់') មកជា 'ជ្រូកខ្វៃនេះជារបស់ខ្ញុំហើយ', 'ចង់ឱ្យខ្ញុំគាំងបេះដូងស្លាប់ឬយ៉ាងម៉េច' យ៉ាងរលូន\n• 🎙️ Perfect Family Role Casting: បែងចែកសំឡេងតួឪពុកកាច (Piseth មនុស្សចាស់), កូនប្រុសខ្ជិល (Piseth ក្មេងប្រុស), ម្ដាយ (Sreymom មនុស្សស្រីចាស់), គ្រូពេទ្យ (Piseth ធម្មតា) យ៉ាងស័ក្តិសម",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.1/Royal_Studio_Patch_v5.0.1.zip",
   "min_supported_version": "4.0.0",
-  "patch_size_kb": 1610.0
+  "patch_size_kb": 1616.4
 }
