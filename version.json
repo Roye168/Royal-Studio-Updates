@@ -1,8 +1,10 @@
 {
-  "version": "5.0.1",
-  "release_date": "2026-11-01",
-  "changelog": "• 🎯 Fix Speaking Early (បំបាត់បញ្ហានិយាយមុនមាត់តួអង្គ ១០០%): កែតម្រូវម៉ាស៊ីន Calculate Lip-Sync Delay និងបំពាក់ Auto-Snap Onset តាំងពីពេល Whisper ស្ដាប់សំឡេងដើមចប់ ធានាថាសំឡេងខ្មែរនិយាយចំពេលមាត់តួអង្គបើកនិយាយ គ្មានការនិយាយមុន ៣ ទៅ ៤ វិនាទីទៀតឡើយ\n• 💎 Cinematic Dialogue Translation (លើកកម្ពស់គុណភាពបកប្រែ): បកប្រែឃ្លាសន្ទនាបែបកុនធម្មជាតិ បំបាត់ការបកប្រែតាមន័យត្រង់កំប៉ិកកំប៉ុក (ដូចជា 'ជ្រូកនេះជាខ្ញុំ', 'ធ្វើឱ្យស្លាប់ទាំងរស់') មកជា 'ជ្រូកខ្វៃនេះជារបស់ខ្ញុំហើយ', 'ចង់ឱ្យខ្ញុំគាំងបេះដូងស្លាប់ឬយ៉ាងម៉េច' យ៉ាងរលូន\n• 🎙️ Perfect Family Role Casting: បែងចែកសំឡេងតួឪពុកកាច (Piseth មនុស្សចាស់), កូនប្រុសខ្ជិល (Piseth ក្មេងប្រុស), ម្ដាយ (Sreymom មនុស្សស្រីចាស់), គ្រូពេទ្យ (Piseth ធម្មតា) យ៉ាងស័ក្តិសម",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.1/Royal_Studio_Patch_v5.0.1.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1616.4
+  "version": "5.0.2",
+  "release_notes": "• 🚀 Fix Video Scrub Freezing (បំបាត់បញ្ហាគាំងពេលអូសវីដេអូទៅមុខ ១០០%): បំពាក់ FastStart (+faststart) និងបង្ខំ Keyframe រៀងរាល់ ២ វិនាទី (-g 60) លើការ Export ទាំងអស់ អូសរលូនស្អាតគ្មានគាំងលើ Windows Media Player\n• 🚫 Ban Pinyin Syllable Chains (បំបាត់ដាច់ខាតការបកប្រែជាអក្សរគ្មានន័យ 'ស៊ូ វ៉ាង ចាង...'): ធានាការបកប្រែន័យសន្ទនាពេញលេញរលូនបែបកុន និងភ្ជាប់ឈ្មោះតួអង្គចិនត្រឹមត្រូវ\n• 🎭 Court & Office Gender Protection (ការពារមិនឱ្យច្រឡំភេទតួអង្គសាលាស្រុក/វាំង): ចៅហ្វាយស្រុក, ស្មៀន, មេក្រុមបង្ក្រាប និងព្រះមហាក្សត្រ ប្រើសំឡេង Piseth (ប្រុស) ត្រឹមត្រូវ មិនច្រឡំ Sreymom (ស្រី) ដោយសារភ្លេងខ្លុយឡើយ",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.2.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.2.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.0.2.zip",
+  "patch_size_bytes": 1666600,
+  "sha256": "b371df6eac4ab52604720fc179c8b12dc48a490b647e80413f128600116e283f",
+  "mandatory": false
 }
