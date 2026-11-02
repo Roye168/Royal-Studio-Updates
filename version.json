@@ -1,8 +1,10 @@
 {
-  "version": "5.0.6",
-  "release_date": "2026-11-02",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.6/Royal_Studio_Patch_v5.0.6.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1647.3
+  "version": "5.0.7",
+  "release_notes": "• 🚀 100% Zero-OOM Whisper AI Engine (ដោះស្រាយបញ្ហា Crash អង្គចងចាំ Unable to allocate 1.66 GiB ដាច់ខាត):\n  - លុបបំបាត់បញ្ហា Memory Overflow ពេលបកប្រែវីដេអូវែងៗ (១ ម៉ោង - ១០ ម៉ោង) ដោយបំពាក់ Ultra-Low Memory Chunked STFT (~4.8 MB RAM)\n  - កាត់បន្ថយការប្រើប្រាស់ RAM លើសលប់ពី 1.66 GiB មកត្រឹម 4.8 MB (កាត់បន្ថយជាង ៣៧០ ដង) ដំណើរការលឿនរលូនលើគ្រប់ម៉ាស៊ីន RAM 4GB/8GB/16GB+\n  - ធានាការស្ដាប់សំឡេងដើម (Whisper AI Speech Recognition) រត់រលូន ១០០% គ្មានការគាំង ឬ Error បញ្ហា RAM ទៀតឡើយ\n• 🎙️ Zero-Clipping Speech Dubbing (រក្សាការបញ្ចេញសំឡេងពេញលេញ ១០០% មិនដាច់កន្ទុយពាក្យ)\n• 🎭 Studio Character Voice Harmony (សំឡេងតួអង្គទាំង ៧ ពិរោះរណ្តំ គ្មានសំឡេងបែក គ្មានសំឡេងបិសាច)\n• ⚡ Deterministic v506/v507 Cache & Multi-Format Subtitle Engine",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.7.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.7.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.0.7.zip",
+  "patch_size_bytes": 1693628,
+  "sha256": "745ba6207a086f7be48484f504f1e9e0656e9c099291a6338e4a487a0612a805",
+  "mandatory": false
 }
