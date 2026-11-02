@@ -1,10 +1,8 @@
 {
   "version": "5.0.6",
-  "release_notes": "• 🎙️ 100% Zero-Clipping Speech Dubbing (ដោះស្រាយបញ្ហានិយាយកំបុតៗ និងដាច់កន្ទុយពាក្យ ១០០% ដាច់ខាត):\n  - លុបបំបាត់ចោលការកាត់ផ្តាច់សំឡេង (Hard Audio Array Slicing) ដោយជំនួសមកវិញនូវ Adaptive WSOLA Time-Stretch (1.0x - 1.40x) រក្សាព្យាង្គ និងពាក្យគ្រប់តួឱ្យនៅគង់វង្សពេញលេញ ១០០%\n  - បំពាក់ Gap-Aware Timeline Breathing អនុញ្ញាតឱ្យសំឡេងនិយាយរត់ចូលក្នុងចន្លោះស្ងាត់ (Silence Gap) រហូតដល់ 3.0 វិនាទី បញ្ចេញសំឡេងយ៉ាងរលូនដូចមនុស្សពិតនិយាយ\n  - បង្កើន Trailing Silence Micro-Padding ដល់ 350ms ធានារាល់ព្យញ្ជនៈចុងក្រោយ (ក, ង, ន, ម, យ, ល, ះ, ់, ៍) និងពាក្យបញ្ចប់ឃ្លា (បាទ, ចាស, ទេ, ណា, ណាស់, ហើយ) បន្លឺឡើងច្បាស់ក្រឡែត គ្មានដាច់សូម្បីតែមួយតួ!\n• 🎭 Studio Character Voice Harmony (លុបបំបាត់សំឡេងចម្លែក/បិសាច និងសម្រួលសំឡេងតួអង្គទាំង ៧ ឱ្យពិរោះរណ្តំក្រអួនក្រអៅ):\n  - កែសម្រួល Pitch Frequency នៃសំឡេងតួអង្គចាស់/កំណាច និងមេការ (Piseth: -3Hz, Sreymom: -2Hz, Narrator: -2Hz, Youth: +6Hz) ឱ្យមានភាពទន់ភ្លន់ ក្រអួនក្រអៅបែបធម្មជាតិ គ្មានសំឡេងបែក គ្មានសំឡេងគ្រលររ៉ែ ឬសំឡេងបិសាចដូចមុនទៀតឡើយ\n  - លុបបំបាត់ការលាយសំឡេងដែលមិនមានក្នុងកម្មវិធី (Zero Rogue Voices) និងការពារកុំឱ្យប្រព័ន្ធប្តូរសំឡេងដែលអ្នកប្រើបានជ្រើសរើស\n• ⚡ Deterministic v506 Audio Cache: ប្រើប្រាស់ Cache Key v5.0.6 ថ្មីសន្លាង ដោយស្វ័យប្រវត្តិមិនទាញយក File ចាស់ដែលធ្លាប់និយាយកំបុត ឬបែកពីមុនមកប្រើឡើយ\n• 🛡️ Bulletproof Subtitle Tuple Unpack & Multi-Format Protection: ដំណើរការរលូនជាមួយគ្រប់ទម្រង់ទិន្នន័យ Subtitles (Dicts, Tuples, Lists)",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.6.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.6.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.0.6.zip",
-  "patch_size_bytes": 1686828,
-  "sha256": "8a038467b0bd41f2bf902f0d9ffae9c0a02af7e2cf85753765a1d9c71e787b68",
-  "mandatory": false
+  "release_date": "2026-11-02",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.6/Royal_Studio_Patch_v5.0.6.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1647.3
 }
