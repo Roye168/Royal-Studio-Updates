@@ -1,10 +1,8 @@
 {
   "version": "5.0.8",
-  "release_notes": "✨ 🎭 Master Gender & Character Voice Engine v5.0.8 (ការបែងចែកសំឡេងតួអង្គប្រុសស្រីកម្រិតភាពយន្ត 100% ឥតច្រឡំ):\n  - ដោះស្រាយបញ្ហាតួប្រុសហៅទៅកាន់តួស្រី (姑娘, អ្នកនាង, ម៉ាក់, បងស្រី) លែងច្រឡំចេញសំឡេងស្រីទៀតហើយ ដោយញែកដាច់រវាងអ្នកស្តាប់ និងអ្នកនិយាយ\n  - កម្រិតសំឡេង Acoustic F0 Pitch Ground Truth: សំឡេងតួប្រុស (< 165Hz) ត្រូវបានការពារដាច់ខាត មិនអនុញ្ញាតឱ្យ Text Heuristic ប្តូរទៅសំឡេងស្រីឡើយ\n  - បន្ថែមក្បួន Imperial Academy (国子监), Censors (御史), និង Scholars ធានាថាតួអង្គមន្ត្រី និងសិស្សប្រឡងទាំងអស់ទទួលបានសំឡេង Piseth ត្រឹមត្រូវ\n  - 2nd-Pass Scene Speaker Smoothing: លុបបំបាត់បញ្ហាភ្លាត់សំឡេងស្រីមួយឃ្លាក្នុងចំណោមការសន្ទនារបស់តួប្រុស (Isolated 1-line Glitch Filter)\n✨ 📜 Ancient Kinship & Cinema Translation Engine (ការបកប្រែពាក្យគារវកិច្ចបុរាណ និងឈ្មោះតួអង្គច្បាស់លាស់):\n  - ក្បួន Section 2.6 ក្នុង Master System Prompt: បកប្រែ 令尊 ជា 'លោកឪពុករបស់អ្នកប្រុស/របស់លោកម្ចាស់' ដាច់ខាតមិនបកប្រែជា 'លោកជំទាវ' ឡើយ\n  - ការពារឈ្មោះតួអង្គប្រុស (韩思叶, 王景谦, 刘文长, 刘靖宗, 沈砚) ដាច់ខាតមិនប្រើពាក្យ 'នាង' ឡើយ (ជំនួសដោយ 'លោក' ឬ 'អា')\n  - Auto-Healing Dictionary: កម្ចាត់ពាក្យសំឡេង Pinyin ខូច (ចាង លីង លីង ឈី -> ល្អណាស់!) និងស្រៈទោល (ា, ។)\n✨ 🎬 Full Healing for Movie 30 Project (7,979 Subtitles ព្យាបាលរួចរាល់ 100%)",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.8.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.8.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.0.8.zip",
-  "patch_size_bytes": 1705322,
-  "sha256": "63f8173175dfff62e7352da016f5b5a7c4a5e9a899d92e5913fdef4d8a04d5ac",
-  "mandatory": false
+  "release_date": "2026-11-03",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.8/Royal_Studio_Patch_v5.0.8.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1665.4
 }
