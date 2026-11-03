@@ -1,8 +1,10 @@
 {
-  "version": "5.0.9",
-  "release_date": "2026-11-03",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.9/Royal_Studio_Patch_v5.0.9.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1667.3
+  "version": "5.1.0",
+  "release_notes": "✨ 🎯 1-Click Precision Auto-Snap & Dialogue Onset (តម្រឹមមាត់តួអង្គ ១០០% ដោយមិនបាច់អង្គុយសារ៉េមួយៗ):\n  - បន្ថែមប៊ូតុងថ្មី '🎯 តម្រឹមមាត់ 100%' លើ Toolbar ក្បែរប៊ូតុង 'សម្រួលពាក្យ': ចុចតែ ១ ឃ្លីក តម្រឹមគ្រប់ជួរ Subtitle និងសំឡេងនិយាយទាំងអស់ឱ្យត្រូវចំពេលមាត់តួអង្គបើកនិយាយ ១០០% ភ្លាមៗ\n  - កែសម្រួលប៊ូតុង '🔄 សម្រួលពាក្យ': ពេលសម្រួលពាក្យចប់ ប្រព័ន្ធនឹង Auto-Snap ម៉ោងចាប់ផ្តើមទៅកាន់ពេលតួអង្គហើបមាត់និយាយដោយស្វ័យប្រវត្តិ (លែងនិយាយមុនមាត់តួអង្គទៀតហើយ)\n  - កែលម្អ Speech Phonation & Dynamic Attack Detector: បែងចែកដាច់ស្រឡះរវាងសំឡេងតន្ត្រី BGM និងសំឡេងមនុស្សពិតប្រាកដ លែងកេះខុសនៅវិនាទី 0ms\n✨ 🌐 Master Dialogue Translation & Zero-Latin Enforcement (សម្រួលពាក្យកម្រិតកុន និងលុបបំបាត់អក្សរឡាតាំង):\n  - Strict Zero-Latin Policy: ឈ្មោះតួអង្គចិនទាំងអស់ត្រូវបានបំប្លែងជាអក្សរខ្មែរ ១០០% (苏清月 -> ស៊ូឈីងយៀ ដាច់ខាតមិនចេញ 'Su Qingyue' ឬលេខកូដកន្ទុយ `1` ឡើយ)\n  - ASR Speech Fragment Healing: ជួសជុលពាក្យកាត់កំបុតដោយស្វ័យប្រវត្តិ (若是以后有古玩方面的西 -> ប្រសិនបើថ្ងៃក្រោយមានរឿងទាក់ទងនឹងវត្ថុបុរាណ លែងបកប្រែខុសជា 'ខាងទិស')\n  - Cinema Idiom Protection: បកប្រែពាក្យស្លោកត្រូវន័យកុន ១០០% (打狗还要看主人 = 'វាយឆ្កែក៏ត្រូវមើលមុខម្ចាស់វាដែរ!', 魅力那么厉害 = 'មានមន្តស្នេហ៍ខ្លាំងដល់ថ្នាក់ហ្នឹងផង!', 气气他不好 = 'ធ្វើឱ្យគាត់ខឹងបន្តិចមិនល្អទេអី?')\n  - Auto-Detection សម្រាប់រឿងសម័យ ភ្នាល់ត្បូង វត្ថុបុរាណ (神瞳鉴宝 / 赌石 / 都市): កំណត់ជា Modern Drama ត្រឹមត្រូវ ១០០%",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.1.0.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.1.0.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.1.0.zip",
+  "patch_size_bytes": 1724950,
+  "sha256": "3f00cea3900f65eb0d97c28267615bd0e93811e5a9290f585a63862f53f2f6f8",
+  "mandatory": false
 }
