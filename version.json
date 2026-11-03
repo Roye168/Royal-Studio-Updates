@@ -1,10 +1,8 @@
 {
   "version": "5.0.9",
-  "release_notes": "✨ 🎯 100% Automatic Lip-Sync Precision & Speech Onset (បំបាត់បញ្ហានិយាយមុនមាត់តួ ១០០% ដោយស្វ័យប្រវត្តិ):\n  - កែសម្រួលកម្រិត Lip-Sync Delay ស្តង់ដារភាពយន្តពី 40ms ឡើងទៅ 220ms-250ms (កម្រិតហើបមាត់តួអង្គបែបធម្មជាតិ) លែងនិយាយមុនមាត់ទៀតហើយ\n  - ដោះស្រាយបញ្ហាដោយស្វ័យប្រវត្តិលើគ្រប់ជួរទាំងអស់ (រាប់ពាន់ឃ្លា) ដោយមិនបាច់ចំណាយពេលអង្គុយសារ៉េមួយៗឡើយ\n  - ក្បួន Dynamic Speech Attack Gradient: សំឡេងនិយាយខ្មែរនឹងចាប់ផ្តើមបន្លឺចំពេលដែលតួអង្គក្នុងវីដេអូចាប់ផ្តើមបញ្ចេញសំឡេងពិតប្រាកដ\n✨ 🎭 Cinema Screenplay Translation Engine (ការបកប្រែសេណារីយ៉ូកម្រិតកុន ជក់ចិត្ត និងមានមនោសញ្ចេតនាខ្ពស់):\n  - បន្ថែម Section 3.5 ក្នុង Master Prompt: បកប្រែពាក្យបែបភាពយន្ត (欺人太甚 = 'មើលងាយមនុស្សហួសហេតុពេកហើយ!', 放肆 = 'ឈ្លើយណាស់/ថ្លើមពាសមេឃ!', 慈母多败儿 = 'ស្រឡាញ់កូនពេកនាំឱ្យខូចកូន')\n  - កែតម្រូវកំហុស Whisper Chinese ASR Homophone រាប់សិបពាក្យ (欺人太深 -> 欺人太甚, 负人 -> 妇人, 铜窗 -> 同窗) ធ្វើឱ្យការបកប្រែកាន់តែស៊ីជម្រៅ\n  - ស៊ីចង្វាក់មាត់ 100% (Matching Syllable Pacing): ឃ្លាវែងនឹងត្រូវបានសម្រួលឱ្យមានចំនួនព្យាង្គសមល្មម មិននិយាយចប់មុនមាត់តួ\n✨ 🎬 Polished & Healed Movie 30 Screenplay (7,979 Subtitles ត្រឹមត្រូវកម្រិតកំពូល)",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.0.9.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.0.9.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.0.9.zip",
-  "patch_size_bytes": 1707276,
-  "sha256": "bb5d6bbc67224841bb7fdd7133b1a78ab250837604638cbefea330b16d50f525",
-  "mandatory": false
+  "release_date": "2026-11-03",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.0.9/Royal_Studio_Patch_v5.0.9.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1667.3
 }
