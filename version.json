@@ -1,8 +1,10 @@
 {
-  "version": "5.1.2",
-  "release_date": "2026-11-04",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.1.2/Royal_Studio_Patch_v5.1.2.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1703.6
+  "version": "5.1.3",
+  "release_notes": "✨ 🎬 Professional Film Dubbing Scriptwriter & Strict Lip-sync Engine (កម្រិតភាពយន្តបញ្ចាំងរោង និងតម្រឹមមាត់តួអង្គ):\n  - បញ្ចូល System Instruction ផ្លូវការរបស់ Gemini API ដោយផ្ទាល់ក្នុងកូដបកប្រែ:\n    * តួនាទី: Professional Film Dubbing Scriptwriter (អ្នកជំនាញបកប្រែ និងសរសេរពាក្យបញ្ចូលសំឡេងភាពយន្ត)\n    * លក្ខខណ្ឌ ១ (Syllable & Timing): ចំនួនព្យាង្គខ្មែរត្រូវតែស្មើ ឬប្រហាក់ប្រហែលនឹងចំនួនតួអក្សរចិនដើម (±1 ព្យាង្គ) ដាច់ខាត ហាមពាក្យវែងអូសបន្លាយ ឃ្លាខ្លីត្រូវខ្លីខ្លឹម\n    * លក្ខខណ្ឌ ២ (Cinematic Tone): ប្រើភាសានិយាយសន្ទនាជាក់ស្តែង (Spoken Khmer) មិនយកពាក្យរដិបរដុប ប្រើសព្វនាមត្រូវតាមឋានៈនិងអារម្មណ៍តួអង្គ (ឯង-យើង, បង-អូន, លោកម្ចាស់, ចៅហ្វាយ...)\n    * លក្ខខណ្ឌ ៣ (Localization & Zero-Loss): បកប្រែយកខ្លឹមសារសមនឹងវប្បធម៌និយាយភាពយន្តនៅកម្ពុជា ហាមបកប្រែចំតួពាក្យ និងហាមដាច់ខាតបាត់លេខឬបាត់ន័យ\n    * Output Format: បង្ហាញតែលទ្ធផលបកប្រែសុទ្ធ គ្មានការពន្យល់ ឬសញ្ញាដែលមិនពាក់ព័ន្ធឡើយ",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.1.3.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.1.3.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.1.3.zip",
+  "patch_size_bytes": 1749175,
+  "sha256": "3d0ce685fdc37576e641bb342b89e25e9b45e6b78f405b025e3b78c55654df51",
+  "mandatory": false
 }
