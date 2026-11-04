@@ -1,8 +1,10 @@
 {
-  "version": "5.1.4",
-  "release_date": "2026-11-04",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.1.4/Royal_Studio_Patch_v5.1.4.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1714.4
+  "version": "5.1.5",
+  "release_notes": "✨ 🎬 100% Authentic Cinematic Translation & Character Voice Consonance Engine (ដោះស្រាយបញ្ហាបកប្រែខុសន័យ ឆ្គង និងបំបាត់សម្លេងច្រឡំតួ):\n  - ១. ជួសជុលបញ្ហាបកប្រែឆ្គងខ្លាំង (Eliminated Machine Translation Hallucinations & ASR Homophones):\n    * បង្កប់ប្រព័ន្ធ ASR Homophone Auto-Correction សម្រាប់កែពាក្យដែល Whisper ស្ដាប់ច្រឡំ៖\n      - 女额 (ចំនួនស្រី) ===> 名额 (កូតាការងាររោងចក្រ)\n      - 笑喘 / 孝喘 (សើច) ===> 哮喘 (ជំងឺហឺត)\n      - 压作骗子 ===> 丫头片子 (កូនស្រី / ក្មេងស្រី)\n      - 光踪药子 ===> 光宗耀祖 (លើកកិត្តិយសមុខមាត់ត្រកូល)\n      - 铁拌碗 ===> 铁饭碗 (ការងាររដ្ឋរឹងមាំ)\n      - 寒冬落月 ===> 寒冬腊月 (រដូវរងាខែចុងក្រោយ)\n      - 去公交社 ===> 去供销社 (សហករណ៍ផ្គត់ផ្គង់ភូមិ)\n      - 扭鼠 ===> 粮食 (ស្បៀងអាហារ), 化贼 ===> 化肥 (ជីគីមី)\n  - ២. ប្រព័ន្ធសម្គាល់ប្រភេទរឿង 1980s Rural Rebirth & Drama Bible Context:\n    * បង្កប់ Drama Bible ទៅក្នុង Gemini AI ដោយស្វ័យប្រវត្ត ដើម្បីឱ្យ AI ស្គាល់គ្រប់តួអង្គច្បាស់៖ គូយ៉េ (顾野 - តួប្រុស), ម្ដាយក្មេកកំណាច (顾老太), វ៉ាន់ឈីង (晚清 - ប្រពន្ធស្រទន់), បងថ្លៃស្រីលោភលន់ (大嫂), និងបងប្រុសអាត្មានិយម (顾大江)\n    * ហាមដាច់ខាតបកប្រែពាក្យមួយៗ ឬប្រឌិតពាក្យឆ្គងៗ (ដូចជា «ហៅប្រពន្ធទាំងនិយាយជាមួយគ្នាបន្តិច», «វ៉ៃកូនហើយ», «ខ្វះតែនិយាយទេ», «ខែមុនកាត់ប្រាក់ខែ»)\n  - ៣. បែងចែកសម្លេងតួអង្គត្រូវតាមភេទ និងឋានៈពិតប្រាកដ (Multi-Character Voice Consonance):\n    * ម្ដាយចាស់កំណាច (顾老太) ===> Sreymom (មនុស្សស្រីចាស់/មេការ)\n    * បងថ្លៃស្រី (大嫂) ===> Sreymom (ធម្មតា/តួស្រី)\n    * វ៉ាន់ឈីង (晚清) ===> Sreymom (ក្មេង/ស្រទន់)\n    * បងប្រុសកំណាច (顾大江) ===> Piseth (មនុស្សចាស់/កំណាច)\n    * តួប្រុសគូយ៉េ (顾野) ===> Piseth (ធម្មតា/តួប្រុស)\n    * និទានរឿង / ការគិតក្នុងចិត្ត (Rebirth Memory) ===> Piseth (និទានរឿង/រៀបរាប់)",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.1.5.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.1.5.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.1.5.zip",
+  "patch_size_bytes": 1776512,
+  "sha256": "ea0eb7f4ffa8291cffeb7af27b95b706e7f12d6a05d3a636f64d80e9992b3085",
+  "mandatory": false
 }
