@@ -1,10 +1,8 @@
 {
   "version": "5.1.6",
-  "release_notes": "⚡ 🚀 Turbo Translation Engine (បង្កើនល្បឿនបកប្រែលឿនជាងមុន ៥ ទៅ ១០ ដង & បំបាត់បញ្ហាកកស្ទះ [0/...]):\n  - ១. ចាប់ផ្ដើមបកប្រែភ្លាមៗក្នុង 0.01 វិនាទី (Instant Zero-Delay Startup):\n    * បំបាត់ចោលការទាញយក Audio ពេញវីដេអូកាត់បន្ថយការរង់ចាំ ៦០ ទៅ ៩០ វិនាទីមុនពេលបកប្រែ\n    * ពេលចុច «🔄 សម្រួលពាក្យ» ប្រព័ន្ធ AI នឹងចាប់ផ្ដើមបកប្រែបន្ទាត់ដំបូងភ្លាមៗ ដោយមិនបាច់រង់ចាំយូរទៀតឡើយ\n  - ២. បង្កើនទំហំ Chunk គុណនឹង ២ ដង (Double Batch Size):\n    * បង្កើនពី 30 ឃ្លា ទៅ 60 ឃ្លាក្នុង ១ Batch កាត់បន្ថយចំនួនដងតភ្ជាប់ API មកត្រឹមពាក់កណ្ដាល\n  - ៣. បច្ចេកវិទ្យា Multi-Key Parallel Concurrency (បកប្រែស្របគ្នាលើកូនសោ AI ច្រើន):\n    * បើកដំណើរការ ThreadPoolExecutor បញ្ជូនសំណើបកប្រែ ៣ ទៅ ៤ Batches ស្របគ្នា ដោយបង្វិលឆ្លាស់គ្នាតាម Key ទាំង ៦ របស់លោកអ្នក\n    * វីដេអូប្រវែង ២ ម៉ោងកន្លះ (រាប់ពាន់ជួរ) បកប្រែចប់ត្រឹមតែប្រហែល ៣០ ទៅ ៦០ វិនាទីប៉ុណ្ណោះ!\n  - ៤. បង្ហាញភាគរយ Real-Time Progress លើអេក្រង់:\n    * តារាង និងរបារស្ថានភាពនឹងរត់លោត Update ផ្ទាល់ភ្នែកតាមដានគ្រប់វិនាទី មិនកកស្ទះនៅលេខ 0 ទៀតឡើយ",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.1.6.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.1.6.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.1.6.zip",
-  "patch_size_bytes": 1776327,
-  "sha256": "ef0ce0e5897a2043e4be22d5d0089bd5f9fbb84afd5e4a578f7d6c1797a0b92b",
-  "mandatory": false
+  "release_date": "2026-11-04",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.1.6/Royal_Studio_Patch_v5.1.6.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1734.7
 }
