@@ -1,10 +1,8 @@
 {
   "version": "5.1.4",
-  "release_notes": "✨ 🎬 100% Precision Lip-sync & Cinema Dubbing Engine (បំបាត់បញ្ហាអក្សរចេញមុនមាត់ & និយាយមុនមាត់ និងកែសម្រួលការបកប្រែស្ដង់ដារកុនភាគ):\n  - ១. ដោះស្រាយបញ្ហាអក្សរ និងសំឡេងចេញមុនមាត់តួអង្គ (Zero Early Timing Drift):\n    * Subtitle Display Synchronized: អក្សរនៅលើអេក្រង់ (Player Monitor) នឹងលោតឡើងចំពេលតួអង្គបើកមាត់ និងសំឡេងចាប់ផ្តើមនិយាយ (start_ms + lip_delay) មិនចេញមុនមាត់ទៀតឡើយ\n    * Export Subtitle Synchronized: វីដេអូ Export ចេញជា MP4 ត្រូវបានតម្រឹម subtitle ជាមួយ delay_ms ស្មើគ្នាទាំងស្រុងរវាងចលនាមាត់ សំឡេងនិយាយ និងអក្សរ\n    * Whisper Word-level Timestamps: បើកដំណើរការ word_timestamps=True ដើម្បីចាប់យកវិនាទីពិតប្រាកដនៃពាក្យដំបូងរបស់តួអង្គ ដោយគ្មានជាប់សំឡេងដកដង្ហើម ឬ silence padding នាំឱ្យអក្សរចេញមុនឡើយ\n    * Precision Auto-Snap (តម្រឹមមាត់ស្វ័យប្រវត្ត ១ ចុច): ប៊ូតុង Auto-Snap ស្កេនចាប់ vocal onset កម្រិត 35ms ជួយតម្រឹមគ្រប់ឃ្លាទាំងអស់ក្នុងរឿងឱ្យចំមាត់តួអង្គ ១០០% ដោយមិនបាច់អង្គុយសារ៉េដោយដៃ\n  - ២. កែសម្រួលការបកប្រែ និងបំបាត់ពាក្យខុសន័យទាំងស្រុង:\n    * បញ្ចូលឃ្លាដែលបាត់នៅ 00:29:04: 林辰根本不会偷东西 ===> «លីនឆិនមិនមែនជាមនុស្សចោរលួចទេ!» (Sreymom)\n    * កែប្រែ 凡事得讲证据 ===> «រឿងអីក៏ត្រូវមានភស្តុតាងដែរ!» (លុបបំបាត់ពាក្យកណ្ដុរចាក់ចោលស្ថាពរ)\n    * កែប្រែ 不可能 ===> «មិនអាចទេ!» (លុបបំបាត់ពាក្យ គឺដែនទេ)\n    * កែប្រែ 接到匿名举报 ===> «ទទួលបានបណ្តឹងអនាមិក!» (លុបបំបាត់ពាក្យ យកកាយមកកាត់)\n    * កែប្រែ 凌晨绝不会做这种事 ===> «លីនឆិនមិនធ្វើរឿងបែបនេះដាច់ខាត!»\n    * កែប្រែ 这是栽赃陷害 ===> «នេះជាការទម្លាក់កំហុសច្បាស់ណាស់!» (លុបបំបាត់ ឬមួយជាចោរទៅ)\n    * បង្កប់ប្រព័ន្ធស្វ័យប្រវត្តកម្ចាត់ចោលរាល់ពាក្យបកប្រែខុសរបស់ Google Translate ឱ្យក្លាយជាភាសាសន្ទនាកុនភាគធម្មជាតិ",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.1.4.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.1.4.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.1.4.zip",
-  "patch_size_bytes": 1755545,
-  "sha256": "d0891a04e3a3e58e3a70a5b3b4d0eede6aa2df92f9c9f2259a73cb89e1f5394a",
-  "mandatory": false
+  "release_date": "2026-11-04",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.1.4/Royal_Studio_Patch_v5.1.4.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1714.4
 }
