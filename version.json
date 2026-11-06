@@ -1,8 +1,10 @@
 {
-  "version": "5.2.1",
-  "release_date": "2026-11-06",
-  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
-  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.2.1/Royal_Studio_Patch_v5.2.1.zip",
-  "min_supported_version": "4.0.0",
-  "patch_size_kb": 1836.5
+  "version": "5.2.2",
+  "release_notes": "🌟 🎬 Royal Studio v5.2.2 — 100% Complete Speech & Zero-Collision Export Engine:\n  - 🔊 ១. ដោះស្រាយបញ្ហានិយាយកំបុតៗពេល Export ជាស្ថាពរ (Zero Speech Truncation Guarantee):\n    * បំពាក់ម៉ាស៊ីន WSOLA Dynamic Time-Stretching ក្នុង Master Assembly Loop ទាំង ExportWorker និង NormalDubPrepareWorker៖ បើប្រវែងសំឡេងវែងជាងចន្លោះពេល ម៉ាស៊ីននឹងបត់បែនល្បឿនដោយស្វ័យប្រវត្តិកម្រិតខ្ពស់ ដើម្បីឱ្យតួអង្គនិយាយចប់គ្រប់ពាក្យទាំងអស់ ១០០% ដល់ព្យាង្គចុងក្រោយ ដោយដាច់ខាតមិនកាត់កន្ទុយសំឡេងចោលឡើយ។\n    * កែសម្រួល max_allowed_sec ក្នុង process_single_sub ឱ្យស្មើនឹង extended_dur ពិតប្រាកដមុនឃ្លាបន្ទាប់ ដើម្បីការពារកុំឱ្យសំឡេងខុសចង្វាក់។\n  - ⚡ ២. ហាមនិយាយជាន់គ្នាដាច់ខាត (Strict Non-Collision & Safety Silence):\n    * ធានាចន្លោះស្ងាត់សុវត្ថិភាព 40ms - 50ms រវាងគ្រប់តួអង្គទាំងអស់ មិនថាការចាក់ស្ដាប់ ឬពេល Export វីដេអូចេញមក គឺដាច់ខាតគ្មានការជាន់សម្លេងគ្នាឡើយ។\n    * បង្កើនកម្រិត WSOLA Adaptive Tempo ដល់ 2.15x ធានាថាសំឡេងត្រូវតែបញ្ចប់មុនឃ្លាបន្ទាប់ចាប់ផ្តើម។\n  - 🧹 ៣. ជម្រះ និងផ្លាស់ប្តូរ Cache Key ទៅកាន់ v522 (Purge Stale Chopped Cache):\n    * ផ្លាស់ប្តូរ Hash Key ទៅ v522 ដើម្បីលុបបំបាត់ការទាញយក File សំឡេងចាស់ៗដែលធ្លាប់កាត់កន្ទុយ ឬខូចកាលពីជំនាន់មុនៗ។ គ្រប់ការ Export នឹងទាញយកសំឡេងថ្មីស្រឡាង ពេញលេញ និងច្បាស់ល្អ ១០០%។\n  - 💎 ៤. បំពាក់ម៉ាស៊ីន Auto-Healing ពេល Export ស្វ័យប្រវត្តិ:\n    * មុនពេល Export វីដេអូ កម្មវិធីនឹងរត់កាត់ heal_chopped_khmer_sentence លើគ្រប់ជួរទាំងអស់ ដើម្បីធានាថាគ្មានឃ្លាណាបញ្ចប់ដោយ '...' ឬកំបុតន័យឡើយ។",
+  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.2.2.zip",
+  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.2.2.zip",
+  "patch_filename": "Royal_Studio_Patch_v5.2.2.zip",
+  "patch_size_bytes": 1883173,
+  "sha256": "d094e9f5c88fdc2c7f10579b1a1e07f1ebc2c22bded123199477f87c1c94435f",
+  "mandatory": false
 }
