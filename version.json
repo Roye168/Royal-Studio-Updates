@@ -1,10 +1,8 @@
 {
   "version": "5.1.9",
-  "release_notes": "⚡ 🎬 Royal Studio v5.1.9 — 100% Cinema Dubbing Standard, Zero Overlap & Complete Speech Engine:\n  - ១. បំបាត់បញ្ហាជាន់សម្លេងគ្នា ១០០% (Zero Voice Clashing & Non-Overlap Guarantee):\n    * បន្ថែម normalize_subtitle_timeline_no_overlaps ធានា end[i] <= start[i+1] - 50ms គ្មានការជាន់គ្នាសូម្បីតែ 1ms។\n    * ជួសជុល ExportWorker ទាំងពីរទីតាំង៖ កាត់បន្ថយសំឡេងកុំឱ្យលេចចូលតួអង្គបន្ទាប់ និងបន្ថែម Micro Fade-Out 15ms ស្អាតគ្មានស្នាមបែក/pop។\n  - ២. និយាយគ្រប់ពាក្យទាំងអស់ មិនដាច់ពាក្យ និងមិនលេបព្យាង្គ (Zero Word Chopping):\n    * កែសម្រួល WSOLA Dynamic Time-Stretching រហូតដល់ 1.65x នៅពេល slot ខ្លី ដើម្បីឱ្យបញ្ចេញសំឡេងចប់ ១០០% ដោយមិនកាត់ចុងប្រយោគ។\n    * សម្អាតលេខរៀង List Item ដែល LLM បន្ថែមខុស (ដូចជា «4​ ធ្វើ​កាត​មួយ​» -> «គ្មានផ្លូវគេចរួចឡើយ!») និងអក្សរ Invisible Zero-Width Space。\n  - ៣. ស្ដង់ដារភាពយន្តកម្រិតខ្ពស់សម្រាប់រឿងឆ្លងភពសម័យបុរាណ + អាវុធទំនើប (Historical Time-Travel & Modern Weapons):\n    * កែសម្រួល Genre Intelligence៖ មិនច្រឡំថាជារឿងសម័យទំនើបសុទ្ធសាធទៀតទេ បកប្រែរាជសព្ទ និងតួអង្គ 女帝 ជា «ព្រះចៅអធិរាជិនី / ព្រះនាងម្ចាស់» មិនច្រឡំជា «ព្រះឥន្ទ» ឬស្ដេចប្រុសឡើយ។\n    * កែសម្រួលពាក្យខុសឆ្គង៖ 反王割据 «ពួកស្ដេចត្រាញ់បះបោរ» (មិនមែនល្ខោនអូប៉េរ៉ា), 辅佐女帝系统 «ប្រព័ន្ធជំនួយអធិរាជិនី» (មិនមែនអនុប្រធាន នី ស៊ីហុង), 宿主 «ម្ចាស់ប្រព័ន្ធ», 天生神力 «កម្លាំងមហិមាតាំងពីកំណើត»។\n    * បែងចែកសំឡេងតួអង្គទាំង ៧ ត្រូវតាមសាច់រឿង៖ អធិរាជិនី លីលីងអ៊ី (Sreymom ក្មេង/ស្រទន់), តួប្រុស ចាវធៀជូ (Piseth ធម្មតា/តួប្រុស), ប្រព័ន្ធជំនួយ (Piseth និទានរឿង), មេទ័ពសត្រូវបាបារៀន (Piseth មនុស្សចាស់/កំណាច), អង្គរក្សស្រី (Sreymom ធម្មតា/តួស្រី)។\n  - ៤. ជួសជុល Bug គាំង save_current_project_state ក្នុង ui_main.py រួចរាល់។\n  - ៥. ព្យាបាល និងជួសជុល Project Movie 35 (ទាំង ២,៥៩២ ជួរ) ឱ្យស្អាតឥតខ្ចោះ ០ Overlap ០ ដាច់ពាក្យ!",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.1.9.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.1.9.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.1.9.zip",
-  "patch_size_bytes": 1844101,
-  "sha256": "98e83bd54137a9566661ecd12521d3b3235e4c11431170f0caa390b9c6a19534",
-  "mandatory": false
+  "release_date": "2026-11-06",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.1.9/Royal_Studio_Patch_v5.1.9.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1800.9
 }
