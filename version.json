@@ -1,10 +1,8 @@
 {
   "version": "5.2.1",
-  "release_notes": "🌟 🎬 Royal Studio v5.2.1 — 100% Complete Sentences, Zero Word Loss & Non-Collision Dubbing Engine:\n  - 🎯 ១. លុបបំបាត់ការបកប្រែកំបុតកន្ទុយឃ្លា ១០០% (Strict Complete Sentence Integrity):\n    * កែប្រែ System Instruction របស់ Gemini API៖ បង្គាប់ឱ្យបញ្ចេញប្រយោគពេញលេញ មានន័យគ្រប់គ្រាន់ ហាមដាច់ខាតកាត់កំបុតពាក់កណ្តាលឃ្លា ឬបញ្ចប់ដោយ '...' ឬពាក្យព្យួរកន្ទុយ។\n    * សម្អាតសញ្ញាចុចៗ '...' ចេញពីអត្ថបទចិន Whisper ASR មុនពេលបកប្រែ ដើម្បីកុំឱ្យ AI ចម្លងសញ្ញាចុចៗតាម។\n    * បន្ថែមមុខងារ heal_chopped_khmer_sentence៖ ជួសជុល និងបំពេញន័យឃ្លាដែលដាច់កន្ទុយ ដូចជា '...ទុកដោយ...', '...សរសេរយ៉ាង...', '...ពេលពេលវេលាមកដល់...' ឱ្យក្លាយជាប្រយោគពេញលេញ ពិរោះ ងាយយល់ភ្លាមៗ។\n  - 🔊 ២. និយាយចប់គ្រប់ពាក្យ ១០០% មិនបាត់ពេលនិយាយ (Zero Speech Loss Guarantee):\n    * ធានាការតម្រឹមល្បឿន WSOLA Dynamic Time-Stretching (sync_tts_audio_to_slot) លើគ្រប់សំឡេង TTS ដែលបង្កើតថ្មីទាំងក្នុង NormalDubPrepareWorker និង ExportWorker។\n    * ឃ្លានិយាយត្រូវបានបត់បែនល្បឿនយ៉ាងស្រទន់ឱ្យត្រូវគ្នានឹងចន្លោះពេល ធានាថានិយាយចប់គ្រប់ម៉ាត់ទាំងអស់ ១០០% ដោយមិនកាត់កន្ទុយសំឡេងឡើយ។\n    * កែសម្រួល Live Dubbing Player ក្នុង ui_main.py មិនឱ្យកាត់ផ្តាច់សំឡេងនៅ 700ms ទៀតទេ ដោយអនុញ្ញាតឱ្យតួអង្គនិយាយចប់ប្រយោគពេញលេញមុនឃ្លាបន្ទាប់ចាប់ផ្តើម។\n  - ⚡ ៣. គ្មានការជាន់សម្លេងគ្នាដាច់ខាត (Strict Non-Collision Timeline Normalizer):\n    * អាប់ដេត normalize_subtitle_timeline_no_overlaps ឱ្យដំណើរការស្វ័យប្រវត្តិកម្រិតខ្ពស់ រៀបលំដាប់ពេលវេលាមិនឱ្យជាន់គ្នា ធានាចន្លោះស្ងាត់សុវត្ថិភាពយ៉ាងតិច 50ms រវាងគ្រប់ឃ្លាទាំងអស់។\n    * ដំណើរការស្វ័យប្រវត្តិនៅពេលបើកគម្រោង (load_project_file), បញ្ចូល SRT (import_srt) និងពេល Export វីដេអូ។\n  - 💎 ៤. ជួសជុលសម្រេច ១០០% លើគម្រោង Movie 34 និង Movie 35:\n    * Movie 34: ជួសជុល ៨៧ ឃ្លាដែលកំបុតកន្ទុយ '...' ឱ្យពេញលេញ និងលុបបំបាត់ការជាន់គ្នា ១,២៧៥ កន្លែង (Overlaps = 0)។\n    * Movie 35: ជួសជុលឃ្លាកំបុតទាំងអស់ និងលុបបំបាត់ការជាន់គ្នា (Overlaps = 0) រក្សាទុកជោគជ័យក្នុង .royalproj និង autosave_project.json។",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.2.1.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.2.1.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.2.1.zip",
-  "patch_size_bytes": 1880570,
-  "sha256": "e20d4dbbaca8788a1a1398fab0de10b6c58b2081827b185921dbe640b6775003",
-  "mandatory": false
+  "release_date": "2026-11-06",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.2.1/Royal_Studio_Patch_v5.2.1.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1836.5
 }
