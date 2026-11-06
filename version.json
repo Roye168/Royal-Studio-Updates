@@ -1,10 +1,8 @@
 {
   "version": "5.2.0",
-  "release_notes": "⚡ 🎬 Royal Studio v5.2.0 — Ultimate Zero-Loss Translation & Gemini 3.5 Engine:\n  - ១. ដោះស្រាយបញ្ហាបាត់ឃ្លាក្រោយៗ (100% Zero-Loss Complete Dialogue Guarantee):\n    * ធ្វើបច្ចុប្បន្នភាពម៉ាស៊ីន AI ទៅកាន់ gemini-3.5-flash-lite ដោះស្រាយបញ្ហា Model ចាស់ 404 (Deprecated) ដែលនាំឱ្យធ្លាក់ទៅជួបម៉ាស៊ីនបកប្រែក្រៅដែលកាត់ចុងប្រយោគ។\n    * បង្កើន maxOutputTokens ដល់ 8192 និងបង្រួម batch_size មកនៅត្រឹម 25 ឃ្លា ដើម្បីឱ្យ Gemini បញ្ចេញបានគ្រប់ប្រយោគ ១០០% មិនកាត់ ឬបាត់ឃ្លាចុងក្រោយក្នុង Batch ទៀតឡើយ។\n  - ២. បកប្រែឃ្លាសំខាន់ និងវគ្គបញ្ចប់រឿង (Climax & Romance) បានពេញលេញ និងរស់រវើក៖\n    * «山河万里不及君在侧» -> «ទោះទឹកដីរាប់ម៉ឺនយោជន៍ ក៏មិនស្មើនឹងមានអ្នកនៅក្បែរយើងដែរ!» (មិនមែនកងទ័ពមិនចុះឈ្មោះទៀតទេ)\n    * «这天下是朕的也是你的» -> «ផែនដីនគរមួយនេះ ជារបស់យើង ហើយក៏ជារបស់អ្នកដូចគ្នា!» (មិនបាត់ពាក្យ «ជារបស់យើង» ទៀតឡើយ)\n    * «皆可先斩后奏» -> «អាចសម្លាប់មុន រាយការណ៍តាមក្រោយបាន!» (មិនកាត់ចុងប្រយោគ)\n    * លុបបំបាត់ពាក្យ «សមណព្រាហ្មណ៍» «តថាគត» និងពាក្យធម៌ទេសនាចេញពីសាច់រឿងរាជវាំងស្អាតឥតខ្ចោះ។\n  - ៣. បែងចែកតួនាទីសំឡេងត្រូវតាមឋានៈ ១០០% (Movie 35 Ending):\n    * ព្រះចៅអធិរាជិនី លីលីងអ៊ី (女帝 李令仪) ប្រើសំឡេងស្រីស្រទន់ Sreymom (ក្មេង/ស្រទន់) មិនច្រឡំជាសំឡេងក្មេងប្រុសទៀតទេ។\n    * តួឯកប្រុស រាជស្វាមី ចាវធៀជូ ប្រើសំឡេង Piseth (ធម្មតា/តួប្រុស)។\n    * វគ្គនិទានប្រវត្តិសាស្ត្ររាជវង្សជិន ប្រើសំឡេង Piseth (និទានរឿង/រៀបរាប់)។\n  - ៤. ជួសជុល Project Movie 35 (ទាំង ២,៥៩២ ជួរ) រួចរាល់ស្ថាពរ ០ Overlap ០ ឃ្លាបាត់បង់!",
-  "download_url": "https://cdn.jsdelivr.net/gh/Roye168/Royal-Studio-Updates@main/Royal_Studio_Patch_v5.2.0.zip",
-  "download_url_fallback": "https://github.com/Roye168/Royal-Studio-Updates/raw/main/Royal_Studio_Patch_v5.2.0.zip",
-  "patch_filename": "Royal_Studio_Patch_v5.2.0.zip",
-  "patch_size_bytes": 1852461,
-  "sha256": "795f95c0be5386643f2bcaf346c6e603d7bf2573ad248e1e568799efef4b4472",
-  "mandatory": false
+  "release_date": "2026-11-06",
+  "changelog": "• កែសម្រួលការបកប្រែភាពយន្តស្តង់ដារ\n• បង្កើនល្បឿន និងបន្ថែមមុខងារបន្តបកប្រែ",
+  "download_url": "https://github.com/Roye168/Royal-Studio-Updates/releases/download/v5.2.0/Royal_Studio_Patch_v5.2.0.zip",
+  "min_supported_version": "4.0.0",
+  "patch_size_kb": 1809.0
 }
